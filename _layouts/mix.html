@@ -3,6 +3,15 @@ layout: default
 ---
 
 <!-- Page Header -->
+<script>
+function settime(pos){
+    var audio= document.getElementById("AudioPlayer");
+    audio.currentTime=pos;
+    audio.play();
+    return true;
+}
+</script>
+
 {% if page.background %}
 <header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
   {% else %}
@@ -34,16 +43,22 @@ layout: default
 
         {{ content }}
         
-		<hr>
+        <hr>
         <ol>
           {% for track in page.tracklist %}
-            {% if track.purchaseurl %}
-              <a href="{{ track.purchaseurl }}"><li>{{ track.title }}</li></a>
-            {% else %}
-              <li>{{ track.title }}</li>
+            <li>{{ track.title }}
+            {% if track.startpos %}
+              <i onclick="return settime({{ track.startpos }});" class="fas fa-headphones-alt" style="cursor: pointer;"></i>
             {% endif %}
+            {% if track.purchaseurl %}
+              <a href="{{ track.purchaseurl }}"><i class="fas fa-shopping-cart"></i></a>
+            {% endif %}
+            </li>
           {% endfor %}
         </ol>
+        <audio id="AudioPlayer" style="width: 100%" controls controlsList="nodownload">
+          <source src="http://www.djabstraction.com.s3.eu-west-1.amazonaws.com/mp3/DJAbstraction-WarmupSessions01-13032021.mp3" type="audio/mpeg">
+        </audio>
         {% if page.downloadurl %}
           <form method="get" action="{{ page.downloadurl }}">
             <button type="submit" class="btn btn-success">Download</button>
