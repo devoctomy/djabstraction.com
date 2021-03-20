@@ -19,3 +19,4 @@ deploy:
     repo: devoctomy/djabstraction.com
     branch: main
   skip_cleanup: 'true'
+  region: eu-west-1
