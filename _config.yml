@@ -1,15 +1,15 @@
 title:              DJ Abstraction
-email:              nick@djabstraction.com
+email:
 description:        House & Trance Mixes
 author:             Nick Pateman
 baseurl:            ""
 url:                "https://www.djabstraction.com"
 
 # Social Profiles
-twitter_username:   bob
-github_username:    bob
-facebook_username:  bob
-instagram_username: bob
+twitter_username:
+github_username:
+facebook_username:
+instagram_username: djabstraction
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
