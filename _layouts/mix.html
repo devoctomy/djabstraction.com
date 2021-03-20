@@ -37,7 +37,11 @@ layout: default
 		<hr>
         <ol>
           {% for track in page.tracklist %}
-          <li>{{ track }}</li>
+            {% if track.purchaseurl %}
+              <a href="{{ track.purchaseurl }}"><li>{{ track.title }}</li></a>
+            {% else %}
+              <li>{{ track.title }}</li>
+            {% endif %}
           {% endfor %}
         </ol>
         {% if page.downloadurl %}

@@ -10,19 +10,32 @@ tags:
 date: 2021-03-20 15:54:00
 background: '/img/posts/warmupsessions01.jpg'
 tracklist:
- - 'Lumisade - RED (Extended Mix)'
- - 'Sun Decade, Ronski Speed - Follow You (Bryn Liedl Remix)'
- - 'Late NIght Alumni - Empty Streets (ALPHA 9 Extended Remix)'
- - 'Giovanna Bianchi, Leo Lauretti, Taygeto - Find My Own (Vocal Mix)'
- - 'Grum, Natalie Shay - Afterglow feat. Natalie Shay (Extended Mix)'
- - 'Kaskade - Closer (Original Mix)'
- - 'Steph Collings, Leo Lauretti - Never Letting Go (Vocal Extended Mix)'
- - 'Taylor Torrence, Natalie Major - If We Say Goodbye (Extended Mix)'
- - 'Tony Bruno - Shöneberg (Original Mix)'
- - 'Elysian (UK) - Beyond The Comfort Zone (Extended Mix)'
- - 'Sarah deCourcy, Super8 & Tab - Seconds Away feat. Sarah deCourcy (Extended Mix)'
- - 'Harry Square - Always Here (Original Mix)'
- - 'Marcel Woods - Beautiful Mind (Dennis Sheperd Remix Extended)'
+ - title: 'Lumisade - RED (Extended Mix)'
+   purchaseurl: https://www.beatport.com/track/red/12898448
+ - title: 'Sun Decade, Ronski Speed - Follow You (Bryn Liedl Remix)'
+   purchaseurl: https://www.beatport.com/track/follow-you/12490488
+ - title: 'Late Night Alumni - Empty Streets (ALPHA 9 Extended Remix)'
+   purchaseurl: https://www.beatport.com/track/empty-streets/12403353
+ - title: 'Giovanna Bianchi, Leo Lauretti, Taygeto - Find My Own (Vocal Mix)'
+   purchaseurl: https://www.beatport.com/track/find-my-own/13794025
+ - title: 'Grum, Natalie Shay - Afterglow feat. Natalie Shay (Extended Mix)'
+   purchaseurl: https://www.beatport.com/track/afterglow-feat-natalie-shay/13199912
+ - title: 'Kaskade - Closer (Original Mix)'
+   purchaseurl: https://www.beatport.com/track/closer/14763579
+ - title: 'Steph Collings, Leo Lauretti - Never Letting Go (Vocal Extended Mix)'
+   purchaseurl: https://www.beatport.com/track/never-letting-go/14489198
+ - title: 'Taylor Torrence, Natalie Major - If We Say Goodbye (Extended Mix)'
+   purchaseurl: https://www.beatport.com/track/if-we-say-goodbye/13081502
+ - title: 'Tony Bruno - Shöneberg (Original Mix)'
+   purchaseurl: https://www.beatport.com/track/shoneberg/11093191
+ - title: 'Elysian (UK) - Beyond The Comfort Zone (Extended Mix)'
+   purchaseurl: https://www.beatport.com/track/beyond-the-comfort-zone/13627966
+ - title: 'Sarah deCourcy, Super8 & Tab - Seconds Away feat. Sarah deCourcy (Extended Mix)'
+   purchaseurl: https://www.beatport.com/track/seconds-away-feat-sarah-decourcy/10206686
+ - title: 'Harry Square - Always Here (Original Mix)'
+   purchaseurl: https://www.beatport.com/track/always-here/8571757
+ - title: 'Marcel Woods - Beautiful Mind (Dennis Sheperd Remix Extended)'
+   purchaseurl: https://www.beatport.com/track/beautiful-mind/10364386
 downloadurl: http://www.djabstraction.com.s3.eu-west-1.amazonaws.com/mixes/DJ_Abstraction-Warmup_Sessions_01-13032021.zip
 ---
 
