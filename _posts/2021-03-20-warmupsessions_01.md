@@ -63,7 +63,8 @@ tracklist:
    purchaseurl: https://www.beatport.com/track/beautiful-mind/10364386
    purchasesite: Beatport
 downloadurl: http://www.djabstraction.com.s3.eu-west-1.amazonaws.com/mixes/DJAbstraction-WarmupSessions01-13032021.zip
-mp3streamurl: 
+mp3streamurl: http://www.djabstraction.com.s3.eu-west-1.amazonaws.com/mp3/DJAbstraction-WarmupSessions01-13032021.mp3
+comments: true
 ---
 
 Well after quite a length break from doing DJ mixes of any kind, I'm back, during the times of Covid lockdowns and working from home every day, what better way to spend some of my new found time?

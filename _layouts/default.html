@@ -10,6 +10,11 @@
 
   {{ content }}
 
+  {% if page.comments %}
+    <br/>
+    {% include comments.html %}
+  {% endif %}
+
   {% include footer.html %}
 
   {% include scripts.html %}

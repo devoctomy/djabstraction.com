@@ -57,7 +57,7 @@ function settime(pos){
           {% endfor %}
         </ol>
         <audio id="AudioPlayer" style="width: 100%" controls controlsList="nodownload">
-          <source src="http://www.djabstraction.com.s3.eu-west-1.amazonaws.com/mp3/DJAbstraction-WarmupSessions01-13032021.mp3" type="audio/mpeg">
+          <source src="{{ page.mp3streamurl }}" type="audio/mpeg">
         </audio>
         {% if page.downloadurl %}
           <form method="get" action="{{ page.downloadurl }}">
