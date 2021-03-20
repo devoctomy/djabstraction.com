@@ -10,7 +10,7 @@ script: "./script/cibuild"
 
 branches:
   only:
-  - master
+  - main
 
 deploy:
   provider: s3
@@ -22,4 +22,4 @@ deploy:
   skip_cleanup: true
   acl: public_read
   on:
-    branch: master
+    branch: main
