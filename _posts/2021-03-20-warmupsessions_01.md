@@ -3,10 +3,12 @@ layout: mix
 title: "Warmup Sessions 01"
 genre: Vocal Uplifting Trance
 tags:
- - misc
- - announcement
+ - mix
+ - vocal
+ - trance
+ - uplifting
 date: 2021-03-20 15:54:00
-background: '/img/posts/01.jpg'
+background: '/img/posts/warmupsessions01.jpg'
 tracklist:
  - 'Lumisade - RED (Extended Mix)'
  - 'Sun Decade, Ronski Speed - Follow You (Bryn Liedl Remix)'
