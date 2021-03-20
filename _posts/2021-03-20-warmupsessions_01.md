@@ -1,7 +1,8 @@
 ---
 layout: mix
 title: "Warmup Sessions 01"
-genre: Vocal Uplifting Trance
+description: "Uplifting Vocal Trance Mix."
+genre: Uplifting Vocal Trance
 tags:
  - mix
  - vocal
