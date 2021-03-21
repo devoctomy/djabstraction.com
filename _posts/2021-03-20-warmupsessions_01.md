@@ -9,7 +9,7 @@ tags:
  - trance
  - uplifting
 date: 2021-03-20 15:54:00
-background: '/img/posts/warmupsessions01.jpg'
+background: '/img/posts/DJAbstraction-WarmupSessions01-13032021.jpg'
 tracklist:
  - title: 'Lumisade - RED (Extended Mix)'
    startpos: 0
