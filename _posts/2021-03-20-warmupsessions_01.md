@@ -15,54 +15,67 @@ tracklist:
    startpos: 0
    purchaseurl: https://www.beatport.com/track/red/12898448
    purchasesite: Beatport
+   label: 'Statement! (Armada)'
  - title: 'Sun Decade, Ronski Speed - Follow You (Bryn Liedl Remix)'
    startpos: 411
    purchaseurl: https://www.beatport.com/track/follow-you/12490488
    purchasesite: Beatport
+   label: 'Euphoric'
  - title: 'Late Night Alumni - Empty Streets (ALPHA 9 Extended Remix)'
    startpos: 669
    purchaseurl: https://www.beatport.com/track/empty-streets/12403353
    purchasesite: Beatport
+   label: 'Ride Recordings'
  - title: 'Giovanna Bianchi, Leo Lauretti, Taygeto - Find My Own (Vocal Mix)'
    startpos: 968
    purchaseurl: https://www.beatport.com/track/find-my-own/13794025
    purchasesite: Beatport
+   label: 'Elliptical Sun Recordings'
  - title: 'Grum, Natalie Shay - Afterglow feat. Natalie Shay (Extended Mix)'
    startpos: 1239
    purchaseurl: https://www.beatport.com/track/afterglow-feat-natalie-shay/13199912
    purchasesite: Beatport
+   label: 'Anjunabeats'
  - title: 'Kaskade - Closer (Original Mix)'
    startpos: 1245
    purchaseurl: https://www.beatport.com/track/closer/14763579
    purchasesite: Beatport
+   label: 'Monstercat'
  - title: 'Steph Collings, Leo Lauretti - Never Letting Go (Vocal Extended Mix)'
    startpos: 1764
    purchaseurl: https://www.beatport.com/track/never-letting-go/14489198
    purchasesite: Beatport
+   label: 'Elliptical Sun Recordings'
  - title: 'Taylor Torrence, Natalie Major - If We Say Goodbye (Extended Mix)'
    startpos: 2005
    purchaseurl: https://www.beatport.com/track/if-we-say-goodbye/13081502
    purchasesite: Beatport
+   label: 'Enhanced Progressive'
  - title: 'Tony Bruno - Shöneberg (Original Mix)'
    startpos: 2302
    purchaseurl: https://www.beatport.com/track/shoneberg/11093191
    purchasesite: Beatport
+   label: 'DECIDE'
  - title: 'Elysian (UK) - Beyond The Comfort Zone (Extended Mix)'
    startpos: 2636
    purchaseurl: https://www.beatport.com/track/beyond-the-comfort-zone/13627966
    purchasesite: Beatport
+   label: 'Anjunabeats'
  - title: 'Sarah deCourcy, Super8 & Tab - Seconds Away feat. Sarah deCourcy (Extended Mix)'
    startpos: 2906
    purchaseurl: https://www.beatport.com/track/seconds-away-feat-sarah-decourcy/10206686
    purchasesite: Beatport
+   label: 'Armind (Armada)'
  - title: 'Harry Square - Always Here (Original Mix)'
    startpos: 3176
    purchaseurl: https://www.beatport.com/track/always-here/8571757
    purchasesite: Beatport
+   label: 'Infrasonic Recordings'
  - title: 'Marcel Woods - Beautiful Mind (Dennis Sheperd Remix Extended)'
    startpos: 3490
    purchaseurl: https://www.beatport.com/track/beautiful-mind/10364386
    purchasesite: Beatport
+   label: 'High Contrast Recording'
 downloadurl: http://www.djabstraction.com.s3.eu-west-1.amazonaws.com/mixes/DJAbstraction-WarmupSessions01-13032021.zip
 mp3streamurl: http://www.djabstraction.com.s3.eu-west-1.amazonaws.com/mp3/DJAbstraction-WarmupSessions01-13032021.mp3
 comments: true
