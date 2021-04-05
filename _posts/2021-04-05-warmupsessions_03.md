@@ -15,7 +15,7 @@ tracklist:
    purchaseurl: https://www.junodownload.com/products/justin-mathis-hollow/4965224-02/
    purchasesite: Junodownload
    label: 'No Fame Only Talent' 
- - title: 'Fideldeejay - Don't Hide'
+ - title: "Fideldeejay - Don't Hide"
    startpos: 192
    purchaseurl: https://www.junodownload.com/products/fideldeejay-dont-hide/5021190-02/?track_number=2
    purchasesite: Junodownload
