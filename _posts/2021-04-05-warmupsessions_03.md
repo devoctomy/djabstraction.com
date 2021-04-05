@@ -75,7 +75,7 @@ mp3streamurl: http://www.djabstraction.com.s3.eu-west-1.amazonaws.com/mp3/DJAbst
 comments: true
 ---
 
-This month I've decided to go for Progressive House, mixing up a collection of more sombre sounding tracks, with some splashes of uplifting vocals.  My favourite tracks in the mix are Chasing Stars by Dave Ralph, Mahe by FUlltone for the ominous sounding melody and of course Never Let You Go by A-Mase / Miser Monj as I just love the emotional vocals at that point in the mix.
+This month I've decided to go for Progressive House, mixing up a collection of more sombre sounding tracks, with some splashes of uplifting vocals.  My favourite tracks in the mix are 'Chasing Stars' by 'Dave Ralph', 'Mahe' by 'Fulltone' for the ominous sounding melody and of course 'Never Let You Go' by 'A-Mase / Miser Monj' as I just love the emotional vocals at that point in the mix.
 
 Anyway I hope you enjoy it, it's taken me quite a few attempts to get this right, which is mainly due to me making stupid mistakes but hey, I got there in the end and it's the journey that counts right?
 
