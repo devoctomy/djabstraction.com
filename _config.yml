@@ -5,14 +5,15 @@ author:             DJ Abstraction
 baseurl:            ""
 url:                "http://www.djabstraction.com"
 
-twitter_username: djabstraction
-github_username: nickdevoctomy
+twitter_username:   djabstraction
+github_username:    nickdevoctomy
 facebook_username:
 instagram_username: djabstraction
 linkedin_username:
-spotify_userid: 1112143992 
+spotify_userid:     1112143992 
 
 google_analytics:   G-1P8T5L4LH8
+enable_comments:    false
 
 markdown:           kramdown
 paginate:           5

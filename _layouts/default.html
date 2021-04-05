@@ -10,9 +10,11 @@
 
   {{ content }}
 
-  {% if page.comments %}
-    <br/>
-    {% include comments.html %}
+  {% if site.enable_comments %}
+    {% if page.comments %}
+      <br/>
+      {% include comments.html %}
+    {% endif %}
   {% endif %}
 
   {% include footer.html %}
