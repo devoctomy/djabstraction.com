@@ -73,6 +73,7 @@ tracklist:
 downloadurl: http://www.djabstraction.com.s3.eu-west-1.amazonaws.com/mixes/DJAbstraction-WarmupSessions03-05042021.zip
 mp3streamurl: http://www.djabstraction.com.s3.eu-west-1.amazonaws.com/mp3/DJAbstraction-WarmupSessions03-05042021.mp3
 comments: true
+sharing: true
 ---
 
 This time I've decided to go for Progressive House, mixing up a collection of more sombre sounding tracks, with some splashes of uplifting vocals.  My favourite tracks in the mix are 'Chasing Stars' by 'Dave Ralph', 'Mahe' by 'Fulltone' for that ominous but beautiful melody and of course 'Never Let You Go' by 'A-Mase / Mister Monj' as I just love the emotional vocals at that point in the mix.

@@ -65,6 +65,10 @@ function settime(pos){
           </form>
           <hr>
         {% endif %}
+		
+		{% if page.sharing %}
+			{% include share.html %}
+		{% endif %}
 
         <div class="clearfix">
 

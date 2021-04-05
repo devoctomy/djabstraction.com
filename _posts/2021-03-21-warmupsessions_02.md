@@ -79,6 +79,7 @@ tracklist:
 downloadurl: http://www.djabstraction.com.s3.eu-west-1.amazonaws.com/mixes/DJAbstraction-WarmupSessions02-21032021.zip
 mp3streamurl: http://www.djabstraction.com.s3.eu-west-1.amazonaws.com/mp3/DJAbstraction-WarmupSessions02-21032021.mp3
 comments: true
+sharing: true
 ---
 
 This is the second installment of 'Warmup Sessions', a series I have decided to use in a way that I can practice my mixing skills and track selections without being dead set on a specific genre, theme or release schedule. So expect these mixes to be uploaded pretty randomly
