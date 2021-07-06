@@ -280,6 +280,13 @@
 
 .fa.fa-facebook:before {
   content: "\f39e"; }
+  
+.fa.fa-rss {
+  font-family: 'Font Awesome 5';
+  font-weight: 400; }
+
+.fa.fa-rss:before {
+  content: "\f09e"; }
 
 .fa.fa-facebook-f {
   font-family: 'Font Awesome 5 Brands';

@@ -5,7 +5,7 @@ description:
 background: '/img/bg-cookies.jpg'
 ---
 
-> Please read this cookie policy (“cookie policy”, "policy") carefully before using djabstraction.com website (“website”, "service") operated by Nick Pateman.
+> Please read this cookie policy (“cookie policy”, "policy") carefully before using a website (“website”, "service") operated by Nick Pateman.
 
 ## What are cookies?
 
