@@ -13,6 +13,19 @@ linkedin_username:
 spotify_userid:      1112143992 
 soundcloud_username: nick-pateman-685424405
 
+podcast_url: http://www.djabstraction.com/podcast/feed.xml
+podcast_album_art: /img/bg-tags.jpg
+podcast_title: DJ Abstraction's Mix Podcast
+podcast_owner: Nick Pateman
+podcast_email:
+podcast_category: Music
+podcast_subcategory_one: Mixes
+podcast_subcategory_two: Dance
+podcast_explicit: "no"
+podcast_author: Nick Pateman
+podcast_description: Dance music mixes performed and recorded by DJ Abstraction.
+podcast_summary: Summary goes here...
+
 google_analytics:   G-1P8T5L4LH8
 enable_comments:    false
 
