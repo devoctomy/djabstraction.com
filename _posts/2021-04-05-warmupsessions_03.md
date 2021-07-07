@@ -72,6 +72,7 @@ tracklist:
    label: 'Paradigm'
 downloadurl: http://www.djabstraction.com.s3.eu-west-1.amazonaws.com/mixes/DJAbstraction-WarmupSessions03-05042021.zip
 mp3streamurl: http://www.djabstraction.com.s3.eu-west-1.amazonaws.com/mp3/DJAbstraction-WarmupSessions03-05042021.mp3
+mp3lengthbytes: 143319407
 comments: true
 sharing: true
 ---
