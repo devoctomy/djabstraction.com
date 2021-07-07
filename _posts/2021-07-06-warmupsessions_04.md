@@ -74,6 +74,7 @@ tracklist:
 downloadurl: http://www.djabstraction.com.s3.eu-west-1.amazonaws.com/mixes/DJAbstraction-WarmupSessions04-06072021.zip
 mp3streamurl: http://www.djabstraction.com.s3.eu-west-1.amazonaws.com/mp3/DJAbstraction-WarmupSessions04-06072021.mp3
 mp3lengthbytes: 166552608
+durationseconds: 4163
 comments: true
 ---
 In this installment of Warmup Sessions I decided to kick it up a notch with some 138 bpm uplifting trance with splashes of vocals. Tracks all sourced from Juno Download again as it's turning out to be my go-to source for choons.

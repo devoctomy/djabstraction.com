@@ -79,6 +79,7 @@ tracklist:
 downloadurl: http://www.djabstraction.com.s3.eu-west-1.amazonaws.com/mixes/DJAbstraction-WarmupSessions02-21032021.zip
 mp3streamurl: http://www.djabstraction.com.s3.eu-west-1.amazonaws.com/mp3/DJAbstraction-WarmupSessions02-21032021.mp3
 mp3lengthbytes: 178233910
+durationseconds: 4455
 comments: true
 sharing: true
 ---

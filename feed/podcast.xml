@@ -68,7 +68,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <itunes:author>{{ site.podcast_author }}</itunes:author>
     <itunes:image href="{{ site.url }}{{ site.podcast_album_art }}" />
     <itunes:explicit>{{ site.podcast_explicit }}</itunes:explicit>
-    <itunes:duration>{{ post.podcast_duration }}</itunes:duration>
+    <itunes:duration>{{ post.durationseconds }}</itunes:duration>
   </item>
 {% endif %}
 {% endfor %}
