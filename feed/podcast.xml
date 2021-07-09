@@ -73,7 +73,7 @@ xmlns:psc="http://podlove.org/simple-chapters"
 	
 	<psc:chapters version="1.2">
 		{% for track in post.tracklist %}
-		<psc:chapter start="{{ track.startpos }}" title="{{ track.title }}" />
+		<psc:chapter start="{{ track.startpos }}" title="{{ track.title | xml_escape }}" />
 		{% endfor %}
     </psc:chapters>
   </item>
