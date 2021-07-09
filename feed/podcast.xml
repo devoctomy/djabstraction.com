@@ -10,6 +10,7 @@ xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:psc="http://podlove.org/simple-chapters"
 >
  
 <channel>
@@ -68,7 +69,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <itunes:author>{{ site.podcast_author }}</itunes:author>
     <itunes:image href="{{ site.url }}{{ site.podcast_album_art }}" />
     <itunes:explicit>{{ site.podcast_explicit }}</itunes:explicit>
-    <itunes:duration>{{ post.durationseconds }}</itunes:duration>
+    <itunes:duration>{{ post.duration | time_seconds }}</itunes:duration>
+	
+	<psc:chapters version="1.2">
+		{% for track in post.tracklist %}
+		<psc:chapter start="{{ track.startpos }}" title="{{ track.title }}" />
+		{% endfor %}
+    </psc:chapters>
   </item>
 {% endif %}
 {% endfor %}
