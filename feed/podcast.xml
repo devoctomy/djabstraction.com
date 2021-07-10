@@ -45,7 +45,7 @@ xmlns:psc="http://podlove.org/simple-chapters"
 {% for post in site.posts %}
 {% if post.layout == "mix" %}
   <item>
-    <title>{{ post.title }}</title>
+    <title>{{ site.podcast_shorttitle }}</title>
     <link>{{ site.url }}{{ post.url }}</link>
     <comments>{{ site.url }}{{ post.url }}#comments</comments>
     <pubDate>{{ post.date | date: "%a, %d %b %Y %T %z" }}</pubDate>
