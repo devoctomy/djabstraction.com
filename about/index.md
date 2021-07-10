@@ -11,6 +11,6 @@ Some of you may remember me from [Afterhours.fm](http://ah.fm), where I had a mo
 
 Now it's 2021 and we are confined to our homes whilst Covid does a number on us. Personally, even though times are crazy, I've found that I've managed to reclaim some free time so that I can start taking up some old hobbies again. Thus, I'm back, I hope you are all well and enjoy the mixes that I have uploaded for you.
 
-<div class="alert alert-success" role="alert">
-  To make listening to my mixes as easy as possible I've created a Podcast feed which you should be able to subscribe to using any good Podcast player on your smartphone or other device.  One such player that I have tested it in is Podcast Addict which is free to download on Google Play although it does contain advertising.
+<div class="alert alert-success" role="alert" onclick="location.href='/podcast';" style="cursor: pointer;">
+	To make listening to my mixes as easy as possible I've created a Podcast feed which you should be able to subscribe to using any good Podcast player on your smartphone or other device.  One such player that I have tested it in is Podcast Addict which is free to download on Google Play although it does contain advertising.
 </div>
