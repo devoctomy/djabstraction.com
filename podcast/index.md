@@ -13,7 +13,7 @@ Once you have picked a podcast player and have installed it to your device, you 
 <div class="container">
 	<div class="row">
 		<div class="col text-center">
-			<input type="text" value="https://www.djabstraction.com/feed/podcast.xml" id="podcastUrl" style="width: 100%;pointer-events: none;border: 0px solid;text-align: center;" />
+			<input type="text" value="http://www.djabstraction.com/feed/podcast.xml" id="podcastUrl" style="width: 100%;pointer-events: none;border: 0px solid;text-align: center;" />
 			<button id="copyButton" onclick="copyPodcastUrlToClipboard()" class="btn btn-secondary">Copy Podcast Feed</button>
 		</div>
 	</div>
