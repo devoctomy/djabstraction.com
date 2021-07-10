@@ -91,5 +91,3 @@ For 'Warmup Sessions 01' I purchased all the tracks through Beatport, but didn't
 I've gone for another selection of Uplifting Vocal Trance tracks, with Craig Connelly featuring a number of times. I particularly like the Gareth Emery remix of Bobina's Time & Tide, the original of which is one of my favourites.  Another favorite of mine in this mix is Hypnotic by Fabrice, it comes in at a crucial time in the mix and keeps up the energy levels nicely, with an sublime uplifting breakdown.
 
 As always, enjoy the mix!
-
-> Just to note, that although this session, and the previous were uploaded to this site with only a day inbetween, they were recorded a week apart. Future mixes will be more evenly spaced apart.
