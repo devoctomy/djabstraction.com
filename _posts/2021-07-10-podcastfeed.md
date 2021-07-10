@@ -22,7 +22,7 @@ Although this feed was always available, it was not being published, so you shou
 
 ## Podcast Feed Link Published
 
-This is a new addition to the site, right next to the RSS feed button, is now a Podcast feed button. This is very similar to the RSS feed, except that it is purely for mixes and will work in a podcast player. The benefit of using a podcast player is that new mixes can be automatically downloaded to your phone as they come available, it also allows you to easily skip through tracks in a mix. I have introduced this feature as I would like to increase the scope of how my mixes can be heard and hopefully get more listeners.
+This is a new addition to the site, right next to the RSS feed button, is now a Podcast feed button. This is very similar to the RSS feed, except that it is purely for mixes and will work in a podcast player. The benefit of using a podcast player is that new mixes can be automatically downloaded to your device (your smartphone for example) as they come available, it also allows you to easily skip through tracks in a mix. I have introduced this feature as I would like to increase the scope of how my mixes can be heard and hopefully get more listeners.
 
 [DJ Abstraction Podcast Feed](/feed/podcast.xml)
 
