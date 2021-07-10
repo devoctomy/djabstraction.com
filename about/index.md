@@ -14,9 +14,3 @@ Now it's 2021 and we are confined to our homes whilst Covid does a number on us.
 <div class="alert alert-success" role="alert">
   To make listening to my mixes as easy as possible I've created a Podcast feed which you should be able to subscribe to using any good Podcast player on your smartphone or other device.  One such player that I have tested it in is Podcast Addict which is free to download on Google Play although it does contain advertising.
 </div>
-
-<br/>
-#### Popular Android Podcast Players
-###### (That I've tested with DJ Abstraction Podcast Feed)
-
-* [Podcast Addict on Google Play Store](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict&hl=en_GB&gl=US)
