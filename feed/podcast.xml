@@ -61,7 +61,12 @@ xmlns:psc="http://podlove.org/simple-chapters"
         <![CDATA[{{ post.excerpt | strip_html | truncatewords: 50 | expand_urls: site.url | cdata_escape }}]]>
     </description>
     <content:encoded>
-        <![CDATA[{{ post.content | expand_urls: site.url | cdata_escape }}]]>
+        <![CDATA[
+			{{ post.content | expand_urls: site.url | cdata_escape }}
+			{% for track in post.tracklist %}
+		    {{ forloop.index }}. {{ track.title }} - [{{ track.label}}]<br/>
+			{% endfor %}
+		]]>
     </content:encoded>
     <enclosure url="{{ post.mp3streamurl }}" length="{{ post.mp3lengthbytes }}" type="audio/mpeg" />
     <itunes:subtitle><![CDATA[{{ post.excerpt | strip_html | truncatewords: 50 | expand_urls: site.url | cdata_escape }}]]></itunes:subtitle>
