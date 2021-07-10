@@ -72,7 +72,7 @@ xmlns:psc="http://podlove.org/simple-chapters"
     <itunes:subtitle><![CDATA[{{ post.excerpt | strip_html | truncatewords: 50 | expand_urls: site.url | cdata_escape }}]]></itunes:subtitle>
     <itunes:summary><![CDATA[{{ post.content | expand_urls: site.url | cdata_escape }}]]></itunes:summary>
     <itunes:author>{{ site.podcast_author }}</itunes:author>
-    <itunes:image href="{{ site.url }}{{ site.podcast_album_art }}" />
+    <itunes:image href="{{ site.url }}{{ post.episodeimg }}" />
     <itunes:explicit>{{ site.podcast_explicit }}</itunes:explicit>
     <itunes:duration>{{ post.duration | time_seconds }}</itunes:duration>
 	

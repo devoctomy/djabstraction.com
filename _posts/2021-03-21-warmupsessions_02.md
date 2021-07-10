@@ -80,6 +80,7 @@ downloadurl: http://www.djabstraction.com.s3.eu-west-1.amazonaws.com/mixes/DJAbs
 mp3streamurl: http://www.djabstraction.com.s3.eu-west-1.amazonaws.com/mp3/DJAbstraction-WarmupSessions02-21032021.mp3
 mp3lengthbytes: 178233910
 duration: '01:14:15'
+episodeimg: '/img/podcast/2.jpg'
 comments: true
 sharing: true
 ---
