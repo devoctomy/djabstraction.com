@@ -76,8 +76,8 @@ tracklist:
    purchaseurl: https://www.beatport.com/track/beautiful-mind/10364386
    purchasesite: Beatport
    label: 'High Contrast Recording'
-downloadurl: http://www.djabstraction.com.s3.eu-west-1.amazonaws.com/mixes/DJAbstraction-WarmupSessions01-13032021.zip
-mp3streamurl: http://www.djabstraction.com.s3.eu-west-1.amazonaws.com/mp3/DJAbstraction-WarmupSessions01-13032021.mp3
+downloadurl: https://www.djabstraction.com/mixes/DJAbstraction-WarmupSessions01-13032021.zip
+mp3streamurl: https://www.djabstraction.com/mp3/DJAbstraction-WarmupSessions01-13032021.mp3
 mp3lengthbytes: 156192885
 duration: '01:05:04'
 episodeimg: '/img/podcast/1.jpg'

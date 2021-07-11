@@ -3,7 +3,7 @@ email:              djabstraction@npsoftware.co.uk
 description:        House & Trance Mixes
 author:             DJ Abstraction
 baseurl:            ""
-url:                "http://www.djabstraction.com"
+url:                "https://www.djabstraction.com"
 
 twitter_username:    djabstraction
 github_username:     nickdevoctomy
@@ -13,7 +13,7 @@ linkedin_username:
 spotify_userid:      1112143992 
 soundcloud_username: nick-pateman-685424405
 
-podcast_url: http://www.djabstraction.com/feed/podcast
+podcast_url: https://www.djabstraction.com/feed/podcast.xml
 podcast_album_art: /img/podcast/podcast.jpg
 podcast_title: DJ Abstraction's Warmup Sessions
 podcast_shorttitle: Warmup Sessions

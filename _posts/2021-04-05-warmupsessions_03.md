@@ -70,8 +70,8 @@ tracklist:
    purchaseurl: https://www.junodownload.com/products/hinev-still-above-extended-mix/5014257-02/
    purchasesite: Junodownload
    label: 'Paradigm'
-downloadurl: http://www.djabstraction.com.s3.eu-west-1.amazonaws.com/mixes/DJAbstraction-WarmupSessions03-05042021.zip
-mp3streamurl: http://www.djabstraction.com.s3.eu-west-1.amazonaws.com/mp3/DJAbstraction-WarmupSessions03-05042021.mp3
+downloadurl: https://www.djabstraction.com/mixes/DJAbstraction-WarmupSessions03-05042021.zip
+mp3streamurl: https://www.djabstraction.com/mp3/DJAbstraction-WarmupSessions03-05042021.mp3
 mp3lengthbytes: 143319407
 duration: '00:59:42'
 episodeimg: '/img/podcast/3.jpg'

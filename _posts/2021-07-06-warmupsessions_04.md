@@ -71,8 +71,8 @@ tracklist:
    purchaseurl: https://www.junodownload.com/products/nicholson-free/5135481-02/?track_number=13
    purchasesite: Junodownload
    label: 'Tidy Two' 
-downloadurl: http://www.djabstraction.com.s3.eu-west-1.amazonaws.com/mixes/DJAbstraction-WarmupSessions04-06072021.zip
-mp3streamurl: http://www.djabstraction.com.s3.eu-west-1.amazonaws.com/mp3/DJAbstraction-WarmupSessions04-06072021.mp3
+downloadurl: https://www.djabstraction.com/mixes/DJAbstraction-WarmupSessions04-06072021.zip
+mp3streamurl: https://www.djabstraction.com/mp3/DJAbstraction-WarmupSessions04-06072021.mp3
 mp3lengthbytes: 166552608
 duration: '01:09:23'
 episodeimg: '/img/podcast/4.jpg'
