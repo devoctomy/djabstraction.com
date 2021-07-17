@@ -46,6 +46,7 @@ xmlns:psc="http://podlove.org/simple-chapters"
 {% if post.layout == "mix" %}
   <item>
     <title>{{ site.podcast_shorttitle }}</title>
+    <itunes:subtitle>Episode {{ post.episodeno }}</itunes:subtitle>
     <link>{{ site.url }}{{ post.url }}</link>
     <comments>{{ site.url }}{{ post.url }}#comments</comments>
     <pubDate>{{ post.date | date: "%a, %d %b %Y %T %z" }}</pubDate>
@@ -60,7 +61,6 @@ xmlns:psc="http://podlove.org/simple-chapters"
     <description><![CDATA[{{ post.content | expand_urls: site.url | cdata_escape }}]]></description>
     <content:encoded><![CDATA[ {{ post.content | expand_urls: site.url | cdata_escape }}]]></content:encoded>
     <enclosure url="{{ post.mp3streamurl }}" length="{{ post.mp3lengthbytes }}" type="audio/mpeg" />
-    <itunes:subtitle><![CDATA[{{ post.excerpt | strip_html | truncatewords: 50 | expand_urls: site.url | cdata_escape }}]]></itunes:subtitle>
     <itunes:summary><![CDATA[{{ post.content | expand_urls: site.url | cdata_escape }}]]></itunes:summary>
     <itunes:author>{{ site.podcast_author }}</itunes:author>
     <itunes:image href="{{ site.url }}{{ post.episodeimg }}" />
