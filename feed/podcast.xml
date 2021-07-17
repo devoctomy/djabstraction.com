@@ -57,20 +57,15 @@ xmlns:psc="http://podlove.org/simple-chapters"
     <category><![CDATA[{{ category | cdata_escape }}]]></category>
 {% endfor %}
     <guid isPermaLink="{% if post.podcast_guid %}false{% else %}true{% endif %}">{{ site.url }}{% if post.podcast_guid %}/{{ post.podcast_guid }}{% else %}{{ post.url }}{% endif %}</guid>
-    <description>
-        <![CDATA[{{ post.excerpt | strip_html | truncatewords: 50 | expand_urls: site.url | cdata_escape }}]]>
-    </description>
-    <content:encoded>
-        <![CDATA[ {{ post.content | expand_urls: site.url | cdata_escape }}	]]>
-    </content:encoded>
+    <description><![CDATA[{{ post.content | expand_urls: site.url | cdata_escape }}]]></description>
+    <content:encoded><![CDATA[ {{ post.content | expand_urls: site.url | cdata_escape }}]]></content:encoded>
     <enclosure url="{{ post.mp3streamurl }}" length="{{ post.mp3lengthbytes }}" type="audio/mpeg" />
     <itunes:subtitle><![CDATA[{{ post.excerpt | strip_html | truncatewords: 50 | expand_urls: site.url | cdata_escape }}]]></itunes:subtitle>
     <itunes:summary><![CDATA[{{ post.content | expand_urls: site.url | cdata_escape }}]]></itunes:summary>
     <itunes:author>{{ site.podcast_author }}</itunes:author>
     <itunes:image href="{{ site.url }}{{ post.episodeimg }}" />
     <itunes:explicit>{{ site.podcast_explicit }}</itunes:explicit>
-    <itunes:duration>{{ post.duration | time_seconds }}</itunes:duration>
-	
+    <itunes:duration>{{ post.duration | time_seconds }}</itunes:duration>	
 	<psc:chapters version="1.2">
 		{% for track in post.tracklist %}
 		<psc:chapter start="{{ track.startpos }}" title="{{ track.title | xml_escape }}" />
