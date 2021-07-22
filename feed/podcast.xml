@@ -59,7 +59,7 @@ layout: null
 			<enclosure url="{{ post.mp3streamurl }}"
          				length="{{ post.mp3lengthbytes }}"
          				type="audio/mpeg" />
-			<itunes:summary>{{ post.content }}</itunes:summary>
+			<itunes:summary>{{ post.content | strip_html }}</itunes:summary>
 			<itunes:author>{{ site.podcast_author }}</itunes:author>
 			<itunes:image href="{{ site.url }}{{ post.episodeimg }}" />
 			<itunes:explicit>{{ site.podcast_explicit }}</itunes:explicit>
