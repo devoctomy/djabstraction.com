@@ -76,7 +76,7 @@ layout: null
 			
 			<itunes:episode>{{ post.episodeno }}</itunes:episode>
 			<itunes:title>{{ site.podcast_shorttitle }}</itunes:title>
-			<itunes:subtitle>Episode {{ post.episodeno }}</itunes:subtitle>
+			<itunes:subtitle>{{ post.content | strip_html | xml_escape | truncate: 252, "..." }}</itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:summary>{{ post.content | strip_html | xml_escape }}</itunes:summary>
 			<itunes:author>{% if post.author %}{{ post.author }}{% else %}{{ site.podcast_author }}{% endif %}</itunes:author>
