@@ -19,10 +19,12 @@ podcast_title: DJ Abstraction's Warmup Sessions
 podcast_shorttitle: Warmup Sessions
 podcast_owner: Nick Pateman
 podcast_email: djabstraction@npsoftware.co.uk
-podcast_category: Music
-podcast_explicit: "no"
-podcast_author: Nick Pateman
+podcast_primarycategory: Music
+podcast_explicit: False
+podcast_author: DJ Abstraction
 podcast_description: House and Trance Mixes by DJ Abstraction. Mixed and recorded live with the best selection of House and Trance.
+podcast_language: en-GB
+podcast_copyright: Copyright 2006 - 2021 DJ Abstraction
 
 google_tagmanager:  GTM-NVQP42Q
 enable_comments:    false
