@@ -76,8 +76,8 @@ tracklist:
    purchaseurl: https://www.junodownload.com/products/craig-connelly-what-are-you-waiting-for/4930001-02/?track_number=1
    purchasesite: Junodownload
    label: "Black Hole Holland"
-downloadurl: https://www.djabstraction.com/mixes/DJAbstraction-WarmupSessions02-21032021.zip
-mp3streamurl: https://www.djabstraction.com/mp3/DJAbstraction-WarmupSessions02-21032021.mp3
+downloadurl: https://downloads.djabstraction.com/mixes/DJAbstraction-WarmupSessions02-21032021.zip
+mp3streamurl: https://downloads.djabstraction.com/mp3/DJAbstraction-WarmupSessions02-21032021.mp3
 mp3lengthbytes: 178233910
 duration: '01:14:15'
 episodeimg: '/img/podcast/2.jpg'
