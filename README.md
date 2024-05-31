@@ -1,7 +1,5 @@
 # djabstraction.com
 
-[![Build Status](https://travis-ci.com/devoctomy/djabstraction.com.svg?branch=main)](https://travis-ci.com/devoctomy/djabstraction.com)
-
 This is the source code for djabstraction.com, built using the static site generator; Jekyll, and deployed to Amazon S3.
 
 ## Buidling & Testing Locally
@@ -9,7 +7,7 @@ This is the source code for djabstraction.com, built using the static site gener
 This site has the following build dependences,
 
 * rvm 1.29.12 >
-* ruby 3.0.0
+* ruby 3.2.0
 * gem 3.2.15
 * bundler 2.2.6
 
@@ -24,12 +22,6 @@ providing the bundle installed successfully, you should be able to then build an
 ```
    bundle exec jekyll serve
 ```
-
-## CI/CD
-
-To achieve CD/CD, I use a combination of GitHub and [Travis-CI](https://travis-ci.com/). Once changes are pushed up to this repo, Travis-CI detects them, builds the entire site and then automatically publishes to Amazon S3.
-
-More information on Amazon S3 deployment can be found [here](https://docs.travis-ci.com/user/deployment/s3/).
 
 ## Acknowledgements
 
