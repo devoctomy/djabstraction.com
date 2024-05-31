@@ -5,13 +5,9 @@ author:             DJ Abstraction
 baseurl:            ""
 url:                "https://www.djabstraction.com"
 
-twitter_username:    djabstraction
-github_username:     nickdevoctomy
-facebook_username:   djabstraction
 instagram_username:  djabstraction
 linkedin_username:
-spotify_userid:      1112143992 
-soundcloud_username: nick-pateman-685424405
+spotify_userid:      1112143992
 
 podcast_url: https://www.djabstraction.com/feed/podcast.xml
 podcast_album_art: /img/podcast/podcast.jpg
@@ -24,7 +20,7 @@ podcast_explicit: False
 podcast_author: DJ Abstraction
 podcast_description: House and Trance Mixes by DJ Abstraction. Mixed and recorded live with the best selection of House and Trance.
 podcast_language: en-GB
-podcast_copyright: Copyright 2006 - 2021 DJ Abstraction
+podcast_copyright: Copyright 2006 - 2024 DJ Abstraction
 
 google_tagmanager:  GTM-NVQP42Q
 enable_comments:    false

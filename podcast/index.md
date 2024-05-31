@@ -24,10 +24,7 @@ Once you have picked a podcast player and have installed it to your device, you 
 
 Once subscribed you should receieve notifications of new mixes as they go live and be able to listen straight away without any messing about.
 
-Enjoy!
-
-<a href="https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuZGphYnN0cmFjdGlvbi5jb20vZmVlZC9wb2RjYXN0LnhtbA"><img src="/img/podcast/googlebadge.png" height="64"></a>		
-<a href="https://www.stitcher.com/show/dj-abstractions-warmup-sessions"><img src="/img/podcast/stitcherbadge.png" height="64"></a>		
+Enjoy!	
 
 <script>
 function copyPodcastUrlToClipboard() {
