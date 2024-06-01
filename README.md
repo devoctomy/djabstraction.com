@@ -1,5 +1,7 @@
 # djabstraction.com
 
+[![Build and Deploy Jekyll Site](https://github.com/devoctomy/djabstraction.com/actions/workflows/jekyll_build.yml/badge.svg)](https://github.com/devoctomy/djabstraction.com/actions/workflows/jekyll_build.yml)
+
 This is the source code for djabstraction.com, built using the static site generator; Jekyll, and deployed to Amazon S3.
 
 ## Buidling & Testing Locally
