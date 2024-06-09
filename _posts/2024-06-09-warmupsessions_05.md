@@ -37,7 +37,7 @@ tracklist:
    purchaseurl: https://www.beatport.com/track/now-or-never/18652643
    purchasesite: Beatport
    label: 'Coldharbour Recordings'
- - title: 'When It's Over - Derek Ryan, Sarah De Warren (Extended Mix)'
+ - title: "When It's Over - Derek Ryan, Sarah De Warren (Extended Mix)"
    startpos: '00:25:34'
    purchaseurl: https://www.beatport.com/track/when-its-over/18773780
    purchasesite: Beatport
