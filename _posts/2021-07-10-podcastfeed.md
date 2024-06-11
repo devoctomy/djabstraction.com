@@ -2,6 +2,7 @@
 layout: post
 title: "New Podcast Feed"
 tags:
+ - blog
  - misc
  - announcement
  - cookies
