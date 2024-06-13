@@ -9,7 +9,6 @@ To make listening to my mixes as easy as possible I've created a Podcast feed wh
 
 Once you have picked a podcast player and have installed it to your device, you will need to subscribe to the following DJ Abstraction Podcast feed (tap the button to copy it to the clipboard),
 
-
 <div class="container">
 	<div class="row">
 		<div class="col text-center">
@@ -19,8 +18,11 @@ Once you have picked a podcast player and have installed it to your device, you 
 	</div>
 </div>
 
-
 > This feed link is available at the bottom of every page via the social links.
+
+To make things super simple, I have made my podcast available for <a href="https://play.google.com/store/apps/details?id=de.danoeh.antennapod&pcampaignid=web_share">AntennaPod for Android</a>. Simply install the app and click the link below, or search for my podcast via the term 'DJ Abstraction'.
+
+<a href="https://antennapod.org/deeplink/subscribe?url=https%3A%2F%2Fwww.djabstraction.com&title=DJ%20Abstraction%27s%20Warmup%20Sessions"><img src="/img/podcast/apbadge.png" width="200"></a>	
 
 Once subscribed you should receieve notifications of new mixes as they go live and be able to listen straight away without any messing about.
 
