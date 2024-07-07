@@ -34,12 +34,12 @@ tracklist:
    label: "ZYX TRANCE"
  - title: "Northad - Dawn Chaser (Extended Mix)"
    startpos: '00:23:29'
-   purchaseurl: 
+   purchaseurl: https://www.beatport.com/track/dawn-chaser/19016723
    purchasesite: Beatport
    label: "Synchronized Next"
  - title: "Lost Witness, Laura-Ly - Carry Me Home (Craig Connelly Extended Mix)"
    startpos: '00:28:48'
-   purchaseurl: https://www.beatport.com/track/dawn-chaser/19016723
+   purchaseurl: https://www.beatport.com/track/carry-me-home/18994400
    purchasesite: Beatport
    label: "Amsterdam Trance Records"
  - title: "Tau-Rine - Time (Original Mix)"
