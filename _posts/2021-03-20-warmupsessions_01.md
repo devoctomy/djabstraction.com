@@ -82,7 +82,6 @@ mp3lengthbytes: 156192885
 duration: '01:05:04'
 episodeimg: '/img/podcast/1.jpg'
 episodeno: 1
-comments: true
 sharing: true
 ---
 
