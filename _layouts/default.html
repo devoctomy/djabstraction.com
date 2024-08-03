@@ -10,13 +10,6 @@
 
   {{ content }}
   
-  {% if site.enable_comments %}
-    {% if page.comments %}
-      <br/>
-      {% include comments.html %}
-    {% endif %}
-  {% endif %}
-
   {% include footer.html %}
 
   {% include scripts.html %}

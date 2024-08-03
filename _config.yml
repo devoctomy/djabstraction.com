@@ -23,7 +23,6 @@ podcast_language: en-GB
 podcast_copyright: Copyright 2006 - 2024 DJ Abstraction
 
 google_tagmanager:  GTM-NVQP42Q
-enable_comments:    false
 
 pagination:
   enabled: true

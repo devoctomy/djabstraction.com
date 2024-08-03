@@ -77,7 +77,6 @@ mp3lengthbytes: 166552608
 duration: '01:09:23'
 episodeimg: '/img/podcast/4.jpg'
 episodeno: 4
-comments: true
 sharing: true
 ---
 In this installment of Warmup Sessions I decided to kick it up a notch with some 138 bpm uplifting trance with splashes of vocals. Tracks all sourced from Juno Download again as it's turning out to be my go-to source for choons.
