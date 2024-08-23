@@ -12,62 +12,74 @@ tags:
 date: 2024-07-07 12:00:00
 background: '/img/posts/DJAbstraction-WarmupSessions06-07072024.jpg'
 tracklist:
- - title: "Mike Shiver, Marc Damon - Water Ripples (Mike Shiver's Introduction Mix)"
+ - title: "Water Ripples (Mike Shiver's Introduction Mix)"
+   artist: "Mike Shiver, Marc Damon"
    startpos: '00:00:00'
    purchaseurl: https://www.beatport.com/track/water-ripples/128131
    purchasesite: Beatport
    label: "Captured Music"
- - title: "Xclusive - Endless Wait (Extended Mix)"
+ - title: "Endless Wait (Extended Mix)"
+   artist: "Xclusive"
    startpos: '00:08:22'
    purchaseurl: https://www.beatport.com/track/endless-wait/19042854
    purchasesite: Beatport
    label: "Eximinds Airlines"
- - title: "Ronski Speed, Katty Heath, Stargazers - Follow My Heart (Extended Mix)"
+ - title: "Follow My Heart (Extended Mix)"
+   artist: "Ronski Speed, Katty Heath, Stargazers"
    startpos: '00:13:57'
    purchaseurl: https://www.beatport.com/track/follow-my-heart/18733986
    purchasesite: Beatport
    label: "Amsterdam Trance Records"
- - title: "PITTARIUS CODE, Josie Sandfeld - Never To Believe (Extended Mix)"
+ - title: "Never To Believe (Extended Mix)"
+   artist: "PITTARIUS CODE, Josie Sandfeld"
    startpos: '00:19:03'
    purchaseurl: https://www.beatport.com/track/never-to-believe/18661930
    purchasesite: Beatport
    label: "ZYX TRANCE"
- - title: "Northad - Dawn Chaser (Extended Mix)"
+ - title: "Dawn Chaser (Extended Mix)"
+   artist: "Northad"
    startpos: '00:23:29'
    purchaseurl: https://www.beatport.com/track/dawn-chaser/19016723
    purchasesite: Beatport
    label: "Synchronized Next"
- - title: "Lost Witness, Laura-Ly - Carry Me Home (Craig Connelly Extended Mix)"
+ - title: "Carry Me Home (Craig Connelly Extended Mix)"
+   artist: "Lost Witness, Laura-Ly"
    startpos: '00:28:48'
    purchaseurl: https://www.beatport.com/track/carry-me-home/18994400
    purchasesite: Beatport
    label: "Amsterdam Trance Records"
- - title: "Tau-Rine - Time (Original Mix)"
+ - title: "Time (Original Mix)"
+   artist: "Tau-Rine"
    startpos: '00:34:32'
    purchaseurl: https://www.beatport.com/track/time/18889000
    purchasesite: Beatport
    label: "Global Player Music"
- - title: "Philippe El Sisi, Elara, Kaimo K - Invincible (Extended Mix)"
+ - title: "Invincible (Extended Mix)"
+   artist: "Philippe El Sisi, Elara, Kaimo K"
    startpos: '00:39:34'
    purchaseurl: https://www.beatport.com/track/invincible/18969372
    purchasesite: Beatport
    label: "Amsterdam Trance Records"
- - title: "Kaimo K, Sarah Russell - Be My Guide (Stargazers Extended Mix)"
+ - title: "Be My Guide (Stargazers Extended Mix)"
+   artist: "Kaimo K, Sarah Russell"
    startpos: '00:45:38'
    purchaseurl: https://www.beatport.com/track/be-my-guide/18696177
    purchasesite: Beatport
    label: "Amsterdam Trance Records"
- - title: "Lele Palmieri - Blue Moon (Original Mix)"
+ - title: "Blue Moon (Original Mix)"
+   artist: "Lele Palmieri"
    startpos: '00:50:12'
    purchaseurl: https://www.beatport.com/track/blue-moon/19235770
    purchasesite: Beatport
    label: "Trance Friends Records"
- - title: "Jennifer Rene, Roman Messer - Alone (Extended Mix)"
+ - title: "Alone (Extended Mix)"
+   artist: "Jennifer Rene, Roman Messer"
    startpos: '00:55:04'
    purchaseurl: https://www.beatport.com/track/alone/19019267
    purchasesite: Beatport
    label: "Suanda Music"
- - title: "NVIRON, Vexa9 - Earthquake (Extended Mix)"
+ - title: "Earthquake (Extended Mix)"
+   artist: "NVIRON, Vexa9"
    startpos: '00:59:56'
    purchaseurl: https://www.beatport.com/track/earthquake-invironment-anthem/19038409
    purchasesite: Beatport
