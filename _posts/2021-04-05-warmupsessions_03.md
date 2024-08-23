@@ -29,7 +29,7 @@ tracklist:
    purchasesite: Junodownload
    label: "MNL"   
  - title: "Feel The Face"
-   artist: "Alex Grafton / Anthony Laim"
+   artist: "Alex Grafton, Anthony Laim"
    startpos: '00:14:33'
    purchaseurl: https://www.junodownload.com/products/alex-grafton-anthony-laim-feel-the-face/5032776-02/?track_number=1
    purchasesite: Junodownload
@@ -53,7 +53,7 @@ tracklist:
    purchasesite: Junodownload
    label: "Lake Underground Music"
  - title: "Never Let You Go (Original Mix)"
-   artist: "A-Mase / Mister Monj"
+   artist: "A-Mase, Mister Monj"
    startpos: '00:37:20'
    purchaseurl: https://www.junodownload.com/products/a-mase-mister-never-let-you-go/4967583-02/?track_number=1
    purchasesite: Junodownload

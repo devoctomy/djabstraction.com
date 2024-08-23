@@ -30,7 +30,7 @@ tracklist:
    purchasesite: Junodownload
    label: "Boteri Beats"   
  - title: "Hypnotized (Extended Mix)"
-   artist: "Ilan Bluestone / Stoneblue / Emma Hewitt"
+   artist: "Ilan Bluestone, Stoneblue, Emma Hewitt"
    startpos: '00:19:37'
    purchaseurl: https://www.junodownload.com/products/ilan-bluestone-stoneblue-emma-hewitt-hypnotized/4566741-02/?track_number=2
    purchasesite: Junodownload
@@ -60,19 +60,19 @@ tracklist:
    purchasesite: Junodownload
    label: 'Boteri Beats' 
  - title: "Survivor (Stargazers Remix)"
-   artist: "Re:Locate / Robert Nickson / Sarah Russel"
+   artist: "Re:Locate, Robert Nickson, Sarah Russel"
    startpos: '00:44:58'
    purchaseurl: https://www.junodownload.com/products/re-locate-robert-nickson-sarah-russell-survivor/5167596-02/?track_number=5
    purchasesite: Junodownload
    label: "Molekular Sounds" 
  - title: "Pacifier (Extended Mix)"
-   artist: "Ronski Speed / Harshil Kamdar / Principia"
+   artist: "Ronski Speed, Harshil Kamdar, Principia"
    startpos: '00:50:45'
    purchaseurl: https://www.junodownload.com/products/ronski-speed-harshil-kamdar-principia-pacifier/5147814-02/
    purchasesite: Junodownload
    label: "Digital Society Recordings"
  - title: "All The Way (Alan Morris Remix)"
-   artist: "Ronski Speed / Aruna"
+   artist: "Ronski Speed, Aruna"
    startpos: '00:57:01'
    purchaseurl: https://www.junodownload.com/products/ronski-speed-aruna-all-the-way/3108635-02/?track_number=1
    purchasesite: Junodownload
