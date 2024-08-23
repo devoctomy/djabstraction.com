@@ -10,66 +10,78 @@ tags:
 date: 2021-04-05 10:00:00
 background: '/img/posts/DJAbstraction-WarmupSessions03-05042021.jpg'
 tracklist:
- - title: 'Justin Mathis - Hollow'
+ - title: "Hollow"
+   artist: "Justin Mathis"
    startpos: '00:00:00'
    purchaseurl: https://www.junodownload.com/products/justin-mathis-hollow/4965224-02/
    purchasesite: Junodownload
-   label: 'No Fame Only Talent' 
- - title: "Fideldeejay - Don't Hide"
+   label: "No Fame Only Talent"
+ - title: "Don't Hide"
+   artist: "Fideldeejay"
    startpos: '00:03:12'
    purchaseurl: https://www.junodownload.com/products/fideldeejay-dont-hide/5021190-02/?track_number=2
    purchasesite: Junodownload
-   label: 'Ditto Music' 
- - title: 'Matik (AR) - Awakening'
+   label: "Ditto Music"
+ - title: "Awakening"
+   artist: "Matik (AR)"
    startpos: '00:08:36'
    purchaseurl: https://www.junodownload.com/products/matik-ar-awakening/4998595-02/?track_number=1
    purchasesite: Junodownload
-   label: 'MNL'   
- - title: 'Alex Grafton / Anthony Laim - Feel The Face'
+   label: "MNL"   
+ - title: "Feel The Face"
+   artist: "Alex Grafton / Anthony Laim"
    startpos: '00:14:33'
    purchaseurl: https://www.junodownload.com/products/alex-grafton-anthony-laim-feel-the-face/5032776-02/?track_number=1
    purchasesite: Junodownload
-   label: 'Exx Musik'
- - title: 'Modern Brothers - Alive'
+   label: "Exx Musik"
+ - title: "Alive"
+   artist: "Modern Brothers"
    startpos: '00:20:17'
    purchaseurl: https://www.junodownload.com/products/modern-brothers-alive/4947621-02/
    purchasesite: Junodownload
-   label: 'Cause Org'   
- - title: 'Dave Ralph - Chasing Stars (Danny Howard Back To Trance Extended Remix)'
+   label: "Cause Org"
+ - title: "Chasing Stars (Danny Howard Back To Trance Extended Remix)"
+   artist: "Dave Ralph"
    startpos: '00:24:19'
    purchaseurl: https://www.junodownload.com/products/dave-ralph-chasing-stars/4980658-02/
    purchasesite: Junodownload
-   label: 'Perfecto'
- - title: 'Alec Araujo - Sacred Cross (Ivan Aliaga Remix)'
+   label: "Perfecto"
+ - title: "Sacred Cross (Ivan Aliaga Remix)"
+   artist: "Alec Araujo"
    startpos: '00:30:35'
    purchaseurl: https://www.junodownload.com/products/alec-araujo-sacred-cross/4947558-02/?track_number=3 
    purchasesite: Junodownload
-   label: 'Lake Underground Music'
- - title: 'A-Mase / Mister Monj - Never Let You Go (Original Mix)'
+   label: "Lake Underground Music"
+ - title: "Never Let You Go (Original Mix)"
+   artist: "A-Mase / Mister Monj"
    startpos: '00:37:20'
    purchaseurl: https://www.junodownload.com/products/a-mase-mister-never-let-you-go/4967583-02/?track_number=1
    purchasesite: Junodownload
-   label: 'Amase Digital' 
- - title: 'Fulltone - Mahe (Jonas Saalbach Remix)'
+   label: "Amase Digital"
+ - title: "Mahe (Jonas Saalbach Remix)"
+   artist: "Fulltone"
    startpos: '00:41:29'
    purchaseurl: https://www.junodownload.com/products/fulltone-cest-bon-ep/5012681-02/?track_number=4
    purchasesite: Junodownload
-   label: 'Klassified'   
- - title: 'Christian Burns - Alive (Athleha Remix)'
+   label: "Klassified"
+ - title: "Alive (Athleha Remix)"
+   artist: "Christian Burns"
    startpos: '00:46:26'
    purchaseurl: https://www.junodownload.com/products/christian-burns-alive/4977743-02/?track_number=1
    purchasesite: Junodownload
-   label: 'Black Hole Holland'
- - title: 'Deepinity - We Meet This Friday'
+   label: "Black Hole Holland"
+ - title: "We Meet This Friday"
+   artist: "Deepinity"
    startpos: '00:51:23'
    purchaseurl: https://www.junodownload.com/products/deepinity-beach-boulevard/5010212-02/?track_number=3
    purchasesite: Junodownload
-   label: 'Seshling'
- - title: 'Hinev - Still Above (Extended Mix)'
+   label: "Seshling"
+ - title: "Still Above (Extended Mix)"
+   artist: "Hinev"
    startpos: '00:56:36'
    purchaseurl: https://www.junodownload.com/products/hinev-still-above-extended-mix/5014257-02/
    purchasesite: Junodownload
-   label: 'Paradigm'
+   label: "Paradigm"
 downloadurl: https://downloads.djabstraction.com/mixes/DJAbstraction-WarmupSessions03-05042021.zip
 mp3streamurl: https://downloads.djabstraction.com/mp3/DJAbstraction-WarmupSessions03-05042021.mp3
 mp3lengthbytes: 143319407

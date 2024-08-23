@@ -11,67 +11,80 @@ tags:
 date: 2021-03-21 13:38:00
 background: '/img/posts/DJAbstraction-WarmupSessions02-21032021.jpg'
 tracklist:
- - title: "Gareth Emery Feat. Annabel - You'll Be OK (Extended Mix)"
+ - title: "You'll Be OK feat. Annabel (Extended Mix)"
+   artist: "Gareth Emery"
    startpos: '00:00:00'
    purchaseurl: https://www.junodownload.com/products/gareth-emery-youll-be-ok-the-remixes/4990708-02/?track_number=2
    purchasesite: Junodownload
    label: "Label Engine"
- - title: "Bobina & Elles De Graff Feat. Anne Chris - Time & Tide (Gareth Emery Remix)"
+ - title: "Time & Tide feat. Anne Chris (Gareth Emery Remix)"
+   artist: "Bobina & Elles De Graff"
    startpos: '00:05:21'
    purchaseurl: https://www.junodownload.com/products/bobina-elles-de-graaf-anne-time-tide/4993615-02/?track_number=4
    purchasesite: Junodownload
    label: "Adrian & Raz"
- - title: "Phillip J Feat. Kim Casandra - Change In The Air (Extended Mix)"
+ - title: "Change In The Air feat. Kim Casandra (Extended Mix)"
+   artist: "Phillip J"
    startpos: '00:10:44'
    purchaseurl: https://www.junodownload.com/products/phillip-j-kim-change-in-the-air/4985504-02/?track_number=2
    purchasesite: Junodownload
    label: "Amsterdam Trance"
- - title: "Blue Serigala Feat. Maria Milewska - Hearts Illumination"
+ - title: "Hearts Illumination feat. Maria Milewska"
+   artist: "Blue Serigala"
    startpos: '00:17:28'
    purchaseurl: https://www.junodownload.com/products/blue-serigala-maria-hearts-illumination-extended-mix/4974368-02/
    purchasesite: Junodownload
    label: "Always Alive Recordings"
- - title: "Coke Montilla Feat. Laura Johnston - Back To Me"
+ - title: "Back To Me feat. Laura Johnston"
+   artist: "Coke Montilla"
    startpos: '00:23:03'
    purchaseurl: https://www.junodownload.com/products/coke-montilla-laura-johnston-back-to-me/4827595-02/
    purchasesite: Junodownload
    label: "RGMusic"
- - title: "Craig Connelly Feat. Natalie Major - Watch The Way You Move (Extended Mix)"
+ - title: "Watch The Way You Move feat. Natalie Major (Extended Mix)"
+   artist: "Craig Connelly"
    startpos: '00:28:37'
    purchaseurl: https://www.junodownload.com/products/craig-connelly-watch-the-way-you-move/4842893-02/?track_number=1
    purchasesite: Junodownload
    label: "Black Hole Holland"
- - title: "Craig Connelly Feat. Tara Louise - Time Machine"
+ - title: "Time Machine feat. Tara Louise"
+   artist: "Craig Connelly"
    startpos: '00:33:57'
    purchaseurl: https://www.junodownload.com/products/craig-connelly-time-machine-paul-denton-extended/4873149-02/
    purchasesite: Junodownload
    label: "Black Hole Holland"
- - title: "Fabrice Feat. Victoriya - Hypnotic"
+ - title: "Hypnotic feat. Victoriya"
+   artist: "Fabrice"
    startpos: '00:39:59'
    purchaseurl: https://www.junodownload.com/products/fabrice-victoriya-hypnotic-original-mix/4984704-02/
    purchasesite: Junodownload
    label: "Azura Lnk"
- - title: "SMR LVE Feat. Roxanne Emery - Lost In Love (Madwave Extended Remix)"
+ - title: "Lost In Love feat. Roxanne Emery (Madwave Extended Remix)"
+   artist: "SMR LVE"
    startpos: '00:46:01'
    purchaseurl: https://www.junodownload.com/products/smr-lve-lost-in-love-madwave-extended/4953316-02/
    purchasesite: Junodownload
    label: "Always Alive Recordings"
- - title: "Hiddeminside Feat. Emarie - Your Love For Me (Original Mix)"
+ - title: "Your Love For Me feat. Emarie (Original Mix)"
+   artist: "Hiddeminside"
    startpos: '00:50:53'
    purchaseurl: https://www.junodownload.com/products/hiddeminside-emarie-your-love-for-me/4942974-02/?track_number=1
    purchasesite: Junodownload
    label: "Technomind Uplifting"
- - title: "Airtouch - Canvas (Extended Mix)"
+ - title: "Canvas (Extended Mix)"
+   artist: "Airtouch"
    startpos: '00:57:34'
    purchaseurl: https://www.junodownload.com/products/airtouch-canvas/4987381-02/?track_number=3
    purchasesite: Junodownload
    label: "FSOE"
- - title: "Abide - I'm With You (Original Mix)"
+ - title: "I'm With You (Original Mix)"
+   artist: "Abide"
    startpos: '01:02:52'
    purchaseurl: https://www.junodownload.com/products/abide-im-with-you/4995895-02/
    purchasesite: Junodownload
    label: "Nrgized Audio"
- - title: "Craig Connelly Feat. Tara Louise - What Are You Waiting For (Will Rees Extended Remix)"
+ - title: "What Are You Waiting For feat. Tara Louise (Will Rees Extended Remix)"
+   artist: "Craig Connelly"
    startpos: '01:07:37'
    purchaseurl: https://www.junodownload.com/products/craig-connelly-what-are-you-waiting-for/4930001-02/?track_number=1
    purchasesite: Junodownload
