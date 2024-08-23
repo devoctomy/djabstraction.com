@@ -49,10 +49,10 @@
         {% for track in page.tracklist %}
           {
             "@type": "MusicRecording",
-            "name": "{{ track.title }}"
+            "name": "{{ track.title | json }}"
             "byArtist": {
               "@type": "MusicGroup",
-              "name": "{{ track.artist }}"
+              "name": "{{ track.artist | json }}"
             }
             "url": "{{ track.purchaseurl }}"
           }
