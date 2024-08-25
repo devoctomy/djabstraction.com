@@ -20,6 +20,7 @@ keywords:
  - vocal trance
 date: 2024-09-01 00:00:00
 background: '/img/posts/DJAbstraction-WarmupSessions08-01092024.jpg'
+
 tracklist:
  - title: "Ashley feat. Aruna (Alex M.O.R.P.H Remix)"
    artist: "Peri, Filo"
@@ -100,10 +101,9 @@ tracklist:
    purchasesite: Beatport
    label: "FSOE"
 
-
 downloadurl: https://downloads.djabstraction.com/mixes/DJAbstraction-WarmupSessions08-01092024.zip
 mp3streamurl: https://downloads.djabstraction.com/mp3/DJAbstraction-WarmupSessions08-01092024.mp3
-mp3lengthbytes: 167695546
+mp3lengthbytes: 167696382
 duration: '01:09:52'
 episodeimg: '/img/podcast/8.jpg'
 episodeno: 8
