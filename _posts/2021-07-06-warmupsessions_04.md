@@ -19,6 +19,7 @@ keywords:
  - vocal trance
 date: 2021-07-06 10:00:00
 background: '/img/posts/DJAbstraction-WarmupSessions04-06072021.jpg'
+
 tracklist:
  - title: "Escape (Original Mix)"
    artist: "Abide"
@@ -91,7 +92,8 @@ tracklist:
    startpos: '01:03:00'
    purchaseurl: https://www.junodownload.com/products/nicholson-free/5135481-02/?track_number=13
    purchasesite: Junodownload
-   label: "Tidy Two" 
+   label: "Tidy Two"
+
 downloadurl: https://downloads.djabstraction.com/mixes/DJAbstraction-WarmupSessions04-06072021.zip
 mp3streamurl: https://downloads.djabstraction.com/mp3/DJAbstraction-WarmupSessions04-06072021.mp3
 mp3lengthbytes: 166552608

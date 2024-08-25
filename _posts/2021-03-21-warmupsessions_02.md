@@ -19,6 +19,7 @@ keywords:
  - vocal trance
 date: 2021-03-21 13:38:00
 background: '/img/posts/DJAbstraction-WarmupSessions02-21032021.jpg'
+
 tracklist:
  - title: "You'll Be OK feat. Annabel (Extended Mix)"
    artist: "Gareth Emery"
@@ -98,6 +99,7 @@ tracklist:
    purchaseurl: https://www.junodownload.com/products/craig-connelly-what-are-you-waiting-for/4930001-02/?track_number=1
    purchasesite: Junodownload
    label: "Black Hole Holland"
+
 downloadurl: https://downloads.djabstraction.com/mixes/DJAbstraction-WarmupSessions02-21032021.zip
 mp3streamurl: https://downloads.djabstraction.com/mp3/DJAbstraction-WarmupSessions02-21032021.mp3
 mp3lengthbytes: 178233910

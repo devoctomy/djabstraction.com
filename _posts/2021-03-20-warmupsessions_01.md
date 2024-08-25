@@ -19,6 +19,7 @@ keywords:
  - vocal trance
 date: 2021-03-20 15:54:00
 background: '/img/posts/DJAbstraction-WarmupSessions01-13032021.jpg'
+
 tracklist:
  - title: "RED (Extended Mix)"
    artist: "Lumisade"
@@ -98,6 +99,7 @@ tracklist:
    purchaseurl: https://www.beatport.com/track/beautiful-mind/10364386
    purchasesite: Beatport
    label: "High Contrast Recording"
+
 downloadurl: https://downloads.djabstraction.com/mixes/DJAbstraction-WarmupSessions01-13032021.zip
 mp3streamurl: https://downloads.djabstraction.com/mp3/DJAbstraction-WarmupSessions01-13032021.mp3
 mp3lengthbytes: 156192885

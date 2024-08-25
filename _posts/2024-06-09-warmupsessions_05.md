@@ -20,6 +20,7 @@ keywords:
  - vocal trance
 date: 2024-06-09 12:00:00
 background: '/img/posts/DJAbstraction-WarmupSessions05-09062024.jpg'
+
 tracklist:
  - title: "Reverie (Huem Extended Reminx)"
    artist: "Daniel Kandi, Nick V, FAWZY"
@@ -92,7 +93,8 @@ tracklist:
    startpos: '00:55:42'
    purchaseurl: https://www.beatport.com/track/moonlight-feat-marjan/18609735
    purchasesite: Beatport
-   label: "Subculture" 
+   label: "Subculture"
+
 downloadurl: https://downloads.djabstraction.com/mixes/DJAbstraction-WarmupSessions05-09062024.zip
 mp3streamurl: https://downloads.djabstraction.com/mp3/DJAbstraction-WarmupSessions05-09062024.mp3
 mp3lengthbytes: 148855169
