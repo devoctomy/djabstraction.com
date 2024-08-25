@@ -64,13 +64,13 @@ layout: null
 			<category>{{ tag }}</category>
 			{% endfor %}
 
-			<content:encoded><![CDATA[ {{ post.content | expand_urls: site.url | cdata_escape }} <p>Tracklist:<ol>{% for track in post.tracklist %}<li>{{ track.title | xml_escape }}</li>{% endfor %}</ol></p> ]]></content:encoded>
+			<content:encoded><![CDATA[ {{ post.content | expand_urls: site.url | cdata_escape }} <p>Tracklist:<ol>{% for track in post.tracklist %}<li>{{ track.artist | xml_escape }} - {{ track.title | xml_escape }}</li>{% endfor %}</ol></p> ]]></content:encoded>
 
 			<dc:creator>{% if post.author %}{{ post.author }}{% else %}{{ site.podcast_author }}{% endif %}</dc:creator>
 
 			<psc:chapters version="1.2">
 				{% for track in post.tracklist %}
-				<psc:chapter start="{{ track.startpos }}" title="{{ track.title | xml_escape }}" href="{{ track.purchaseurl }}"/>
+				<psc:chapter start="{{ track.startpos }}" title="{{ track.artist | xml_escape }} - {{ track.title | xml_escape }}" href="{{ track.purchaseurl }}"/>
 				{% endfor %}
 			</psc:chapters>
 			

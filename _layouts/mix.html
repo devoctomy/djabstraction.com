@@ -46,7 +46,7 @@ function settime(pos){
         <hr>
         <ol>
           {% for track in page.tracklist %}
-            <li>{{ track.title }} {% if track.label %} - [{{ track.label}} {% endif %}]
+            <li>{{ track.artist }} - {{ track.title }} {% if track.label %} [{{ track.label}} {% endif %}]
             {% if track.startpos %}
               <i onclick="return settime({{ track.startpos | time_seconds }});" class="fas fa-headphones-alt" style="cursor: pointer;"></i>
             {% endif %}

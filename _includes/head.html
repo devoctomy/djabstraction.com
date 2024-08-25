@@ -37,4 +37,32 @@
   })(window,document,'script','dataLayer','{{ site.google_tagmanager }}');</script>
   <!-- End Google Tag Manager -->
   {% endif %}
+
+  <meta name="description" content="{{ page.description }}">
+  {% if page.keywords %}
+  <meta name="keywords" content="{{ page.keywords | join: ", " }}">
+  {% endif %}
+
+  {% if page.layout == "mix" %}
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "MusicPlaylist",
+      "name": "{{ site.podcast_title }} - Episode {{ page.episodeno }}",
+      "track": [
+        {% for track in page.tracklist %}
+          {
+            "@type": "MusicRecording",
+            "name": "{{ track.title | json }}"
+            "byArtist": {
+              "@type": "MusicGroup",
+              "name": "{{ track.artist | json }}"
+            }
+            "url": "{{ track.purchaseurl }}"
+          }
+        {% endfor %}
+      ]
+    }
+  </script>
+  {% endif %}
 </head>
