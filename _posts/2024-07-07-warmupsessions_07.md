@@ -20,6 +20,7 @@ keywords:
  - vocal trance
 date: 2024-08-03 00:00:00
 background: '/img/posts/DJAbstraction-WarmupSessions07-03082024.jpg'
+
 tracklist:
  - title: "All I Know (Extended Mix)"
    artist: "NELLY TGM, Alex Drane"
@@ -101,6 +102,8 @@ duration: '01:02:38'
 episodeimg: '/img/podcast/7.jpg'
 episodeno: 7
 sharing: true
+comments: true
+pageid: wus07
 ---
 It's the height of summer in the UK, and we have had some amazing weather lately, so what perfect a time to spend inside, in the shade, with the fans on full blast, mixing up some top new trance music for the next episode of Warmup Sessions.
 

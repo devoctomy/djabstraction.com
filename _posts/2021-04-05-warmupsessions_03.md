@@ -18,6 +18,7 @@ keywords:
  - progressive house
 date: 2021-04-05 10:00:00
 background: '/img/posts/DJAbstraction-WarmupSessions03-05042021.jpg'
+
 tracklist:
  - title: "Hollow"
    artist: "Justin Mathis"
@@ -91,6 +92,7 @@ tracklist:
    purchaseurl: https://www.junodownload.com/products/hinev-still-above-extended-mix/5014257-02/
    purchasesite: Junodownload
    label: "Paradigm"
+
 downloadurl: https://downloads.djabstraction.com/mixes/DJAbstraction-WarmupSessions03-05042021.zip
 mp3streamurl: https://downloads.djabstraction.com/mp3/DJAbstraction-WarmupSessions03-05042021.mp3
 mp3lengthbytes: 143319407
@@ -98,6 +100,8 @@ duration: '00:59:42'
 episodeimg: '/img/podcast/3.jpg'
 episodeno: 3
 sharing: true
+comments: true
+pageid: wus03
 ---
 
 This time I've decided to go for Progressive House, mixing up a collection of more sombre sounding tracks, with some splashes of uplifting vocals.  My favourite tracks in the mix are 'Chasing Stars' by 'Dave Ralph', 'Mahe' by 'Fulltone' for that ominous but beautiful melody and of course 'Never Let You Go' by 'A-Mase / Mister Monj' as I just love the emotional vocals at that point in the mix.
