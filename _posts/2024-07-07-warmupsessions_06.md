@@ -20,6 +20,7 @@ keywords:
  - vocal trance
 date: 2024-07-07 12:00:00
 background: '/img/posts/DJAbstraction-WarmupSessions06-07072024.jpg'
+
 tracklist:
  - title: "Water Ripples (Mike Shiver's Introduction Mix)"
    artist: "Mike Shiver, Marc Damon"
@@ -101,6 +102,7 @@ duration: '01:02:01'
 episodeimg: '/img/podcast/6.jpg'
 episodeno: 6
 sharing: true
+pageid: wus06
 ---
 Well I've actually managed to keep schedule this month, let's hope that this continues!
 
