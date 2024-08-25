@@ -9,6 +9,15 @@ tags:
  - uplifting
  - vocal
  - epic
+keywords:
+ - dj abstraction
+ - trance mix
+ - dj set
+ - free download
+ - trance podcast
+ - uk trance dj
+ - edm
+ - vocal trance
 date: 2024-07-07 12:00:00
 background: '/img/posts/DJAbstraction-WarmupSessions06-07072024.jpg'
 tracklist:

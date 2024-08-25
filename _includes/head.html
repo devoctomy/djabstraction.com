@@ -38,7 +38,11 @@
   <!-- End Google Tag Manager -->
   {% endif %}
 
-  <meta />
+  <meta name="description" content="{{ page.description }}">
+  {% if page.keywords %}
+  <meta name="keywords" content="{{ page.keywords | join: ", " }}">
+  {% endif %}
+
   {% if page.layout == "mix" %}
   <script type="application/ld+json">
     {

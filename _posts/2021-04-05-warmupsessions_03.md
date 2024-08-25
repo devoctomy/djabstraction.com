@@ -7,6 +7,15 @@ tags:
  - mix
  - progressive
  - house
+keywords:
+ - dj abstraction
+ - progressive house mix
+ - dj set
+ - free download
+ - trance podcast
+ - uk trance dj
+ - edm
+ - progressive house
 date: 2021-04-05 10:00:00
 background: '/img/posts/DJAbstraction-WarmupSessions03-05042021.jpg'
 tracklist:
