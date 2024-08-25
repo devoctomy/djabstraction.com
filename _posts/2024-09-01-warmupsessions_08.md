@@ -108,6 +108,8 @@ duration: '01:09:52'
 episodeimg: '/img/podcast/8.jpg'
 episodeno: 8
 sharing: true
+comments: true
+pageid: wus08
 ---
 As the UK summer lingers, I'm thrilled to bring you an extended episode of Warmup Sessions, packed with the latest and greatest in uplifting trance. This mix isn't just a playlist, it's a journey through euphoric highs and pounding basslines, meticulously crafted to elevate your
 spirits and get your pulse racing.
