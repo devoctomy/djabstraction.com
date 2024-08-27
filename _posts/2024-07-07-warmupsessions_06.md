@@ -102,6 +102,7 @@ duration: '01:02:01'
 episodeimg: '/img/podcast/6.jpg'
 episodeno: 6
 sharing: true
+comments: true
 pageid: wus06
 ---
 Well I've actually managed to keep schedule this month, let's hope that this continues!
