@@ -1,7 +1,9 @@
 // Styling for the post page
 .post-preview {
   > .post-container {
+    display: flex;
     > .post-image {
+      flex: 1;
       margin-top: 16px;
       margin-bottom: 16px;
       > img {
@@ -10,6 +12,7 @@
       }
     }
     > .post-content {
+      flex: 2;
       > a {
         color: $gray-900;
         &:focus,
