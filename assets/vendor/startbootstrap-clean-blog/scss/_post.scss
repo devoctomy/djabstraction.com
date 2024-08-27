@@ -2,8 +2,9 @@
 .post-preview {
   > .post-container {
     display: flex;
-    justify-content: center; /* Aligns horizontally */
-    align-items: center;     /* Aligns vertically */
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
     > .post-image {
       flex: 1;
       margin-top: 16px;
@@ -33,6 +34,9 @@
         }
       }
     }
+    @media only screen and (min-width: 600px) {
+      flex-direction: column;
+    } 
   }
   > .post-meta {
     font-size: 18px;
