@@ -13,7 +13,9 @@ pagination:
   <div class="post-container">
     {% if post.episodeimg %}
     <div class="post-image">
-      <img src="{{ post.episodeimg }}" alt="{{ post.title }}" class="post-image">
+      <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+        <img src="{{ post.episodeimg }}" alt="{{ post.title }}" class="post-image">
+      </a>
     </div>
     {% endif %}
     <div class="post-content">
