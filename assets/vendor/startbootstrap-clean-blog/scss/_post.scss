@@ -2,6 +2,8 @@
 .post-preview {
   > .post-container {
     display: flex;
+    justify-content: center; /* Aligns horizontally */
+    align-items: center;     /* Aligns vertically */
     > .post-image {
       flex: 1;
       margin-top: 16px;
