@@ -42,6 +42,8 @@ pagination:
     after: 2
   extension: html
   indexpage: 'index'
+  filter:
+    - "archived"
 
 markdown:           kramdown
 plugins:
