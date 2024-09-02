@@ -8,7 +8,6 @@ tags:
  - vocal
  - trance
  - uplifting
- - archived
 keywords:
  - dj abstraction
  - trance mix
@@ -110,6 +109,7 @@ episodeno: 1
 sharing: true
 comments: true
 pageid: wus01
+hidden: true
 ---
 
 Well after quite a lengthy break from doing DJ mixes of any kind, I'm back, during the times of Covid lockdowns and working from home every day, what better way to spend some of my new found time?

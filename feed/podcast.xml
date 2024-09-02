@@ -52,7 +52,7 @@ layout: null
 	
 		{% for post in site.posts %}
 			{% if post.layout == "mix" %}
-				{% unless post.tags contains "archived" %}
+				{% unless post.hidden %}
 					<item>
 						<title>{{ site.podcast_shorttitle }}</title>		
 						<author>{% if post.author %}{{ post.author }}{% else %}{{ site.podcast_author }}{% endif %}</author>
