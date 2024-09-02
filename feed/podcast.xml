@@ -54,7 +54,7 @@ layout: null
 			{% if post.layout == "mix" %}
 				{% unless post.hidden %}
 					<item>
-						<title>{{ site.podcast_shorttitle }}</title>		
+						<title>{{ post.subtitle }}</title>		
 						<author>{% if post.author %}{{ post.author }}{% else %}{{ site.podcast_author }}{% endif %}</author>
 						<guid isPermaLink="{% if post.podcast_guid %}false{% else %}true{% endif %}">{{ site.url }}{% if post.podcast_guid %}/{{ post.podcast_guid }}{% else %}{{ post.url }}{% endif %}</guid>
 						<link>{{ site.url }}{{ post.url }}</link>

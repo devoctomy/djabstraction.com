@@ -1,6 +1,7 @@
 ---
 layout: mix
-title: "Warmup Sessions 03"
+title: "{{ site.podcast_title }}"
+subtitle: "Episode 03"
 description: "Progressive House Mix."
 genre: Progressive House
 tags:

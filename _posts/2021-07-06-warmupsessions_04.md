@@ -1,6 +1,7 @@
 ---
 layout: mix
-title: "Warmup Sessions 04"
+title: "{{ site.podcast_title }}"
+subtitle: "Episode 04"
 description: "Uplifting Trance Mix."
 genre: Uplifting Trance
 tags:
