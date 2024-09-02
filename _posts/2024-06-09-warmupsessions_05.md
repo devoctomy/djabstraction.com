@@ -1,6 +1,6 @@
 ---
 layout: mix
-title: "{{ site.podcast_title }}"
+title: "DJ Abstraction's Warmup Sessions"
 subtitle: "Episode 05"
 description: "Uplifting Trance Mix."
 genre: Uplifting Trance
