@@ -20,9 +20,19 @@ pagination:
     {% endif %}
     <div class="post-content">
       <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
-        <h2 class="post-title">{{ post.title }}</h2>
+        <h1 class="post-title">{{ page.title }}</h1>
+        {% if page.subtitle %}
+        <h2 class="post-subtitle">{{ page.subtitle }}</h2>
+        {% endif %}
         <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>
       </a>
+
+      <div class="tags">
+        {% for tag in post.tags %}
+        <a href="{{ baseurl }}/tags/#{{tag}}">{{ tag }}</a>
+        {% endfor %}
+      </div>
+
       <p class="post-meta">Posted by
         {% if post.author %}
         {{ post.author }}
