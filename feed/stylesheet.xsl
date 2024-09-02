@@ -137,7 +137,7 @@
                     <xsl:value-of select="link"/>
                   </xsl:attribute>
                   <xsl:attribute name="target">_blank</xsl:attribute>
-                  <xsl:value-of select="concat(title, ' - Episode : ', episode)"/>
+                  <xsl:value-of select="concat(title, ' - Episode : ', itunes:episode)"/>
                 </a>
               </h2>
               <div class="episode-time">
