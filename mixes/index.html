@@ -5,6 +5,8 @@ background: '/img/bg-post.jpg'
 pagination: 
   enabled: true
   tag: mix
+  filter:
+    - "archived"
 ---
 
 {% for post in paginator.posts %}
