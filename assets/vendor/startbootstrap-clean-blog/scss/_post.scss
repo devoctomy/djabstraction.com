@@ -34,6 +34,12 @@
           font-weight: 300;
           margin: 0 0 10px;
         }
+        > .post-excerpt {
+          font-size: 24px;
+          font-weight: 400;
+          margin: 10px 0;
+          color: $gray-700;
+        }
       }
       > .post-meta {
         font-size: 18px;
