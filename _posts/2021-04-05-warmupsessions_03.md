@@ -7,6 +7,7 @@ tags:
  - mix
  - progressive
  - house
+ - archived
 keywords:
  - dj abstraction
  - progressive house mix

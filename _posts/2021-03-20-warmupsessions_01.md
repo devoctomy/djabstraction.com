@@ -8,6 +8,7 @@ tags:
  - vocal
  - trance
  - uplifting
+ - archived
 keywords:
  - dj abstraction
  - trance mix
