@@ -1,4 +1,4 @@
-+// Styling for the post page
+// Styling for the post page
 .post-preview {
   > .post-container {
     display: flex;
@@ -31,11 +31,6 @@
           margin-bottom: 10px;
         }
         > .post-subtitle {
-          font-weight: 300;
-          margin: 0 0 10px;
-        }
-        > .post-excerpt {
-          font-size: 24px;
           font-weight: 300;
           margin: 0 0 10px;
         }
