@@ -1,6 +1,7 @@
 ---
 layout: mix
-title: "Warmup Sessions 01"
+title: "DJ Abstraction's Warmup Sessions"
+subtitle: "Episode 01"
 description: "Uplifting Vocal Trance Mix."
 genre: Uplifting Vocal Trance
 tags:

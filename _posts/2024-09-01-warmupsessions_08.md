@@ -1,6 +1,7 @@
 ---
 layout: mix
-title: "Warmup Sessions 08"
+title: "DJ Abstraction's Warmup Sessions"
+subtitle: "Episode 08"
 description: "Uplifting Trance Mix."
 genre: Uplifting Trance
 tags:

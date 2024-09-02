@@ -1,6 +1,7 @@
 ---
 layout: mix
-title: "Warmup Sessions 03"
+title: "DJ Abstraction's Warmup Sessions"
+subtitle: "Episode 03"
 description: "Progressive House Mix."
 genre: Progressive House
 tags:
