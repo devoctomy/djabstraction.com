@@ -31,73 +31,73 @@ tracklist:
    label: "100% Pure Trance"
  - title: "Pangaea (Extended Mix)"
    artist: "Josh Ferrin"
-   startpos: '00:00:00'
+   startpos: '00:07:00'
    purchaseurl: https://www.beatport.com/track/pangaea/19364601
    purchasesite: Beatport
    label: "Subculture"
  - title: "Brand New Sky (Extended Mix)"
    artist: "U-G"
-   startpos: '00:00:00'
+   startpos: '00:12:21'
    purchaseurl: https://www.beatport.com/track/brand-new-sky/19317705
    purchasesite: Beatport
    label: "FSOE"
  - title: "You Will Never Be Forgotten (Lostly Remix)"
    artist: "Bryan Kearney"
-   startpos: '00:00:00'
+   startpos: '00:17:14'
    purchaseurl: https://www.beatport.com/track/you-will-never-be-forgotten/19328099
    purchasesite: Beatport
    label: "Kearnage Recordings"   
  - title: "Reach for the Stars (Original Mix)"
    artist: "Darren Porter, XiJaro & Pitch"
-   startpos: '00:00:00'
+   startpos: '00:22:43'
    purchaseurl: https://www.beatport.com/track/reach-for-the-stars/19029173
    purchasesite: Beatport
    label: "Dreamstate"
  - title: "Bioluminescent (Extended Mix)"
    artist: "Asteroid, Transaphonic"
-   startpos: '00:00:00'
+   startpos: '00:28:29'
    purchaseurl: https://www.beatport.com/track/bioluminescent/19201978
    purchasesite: Beatport
    label: "Subcultre"
  - title: "Common Ground (Extended Mix)"
    artist: "Chris Element, Charles Tsai"
-   startpos: '00:00:00'
+   startpos: '00:33:18'
    purchaseurl: https://www.beatport.com/track/common-ground/19317659
    purchasesite: Beatport
    label: "FSOE"
  - title: "Lost Forever (Original Mix)"
    artist: "Amos & Riot Night, Connor Woodford"
-   startpos: '00:00:00'
+   startpos: '00:38:34'
    purchaseurl: https://www.beatport.com/track/lost-forever/19354981
    purchasesite: Beatport
    label: "Pure Trance NEON"
  - title: "Collision (Extended Mix)"
    artist: "Ralphie B, Frank Waanders, Collide1"
-   startpos: '00:00:00'
+   startpos: '00:43:21'
    purchaseurl: https://www.beatport.com/track/collision/19354972
    purchasesite: Beatport
    label: "In Trance We Trust"
  - title: "The Future (Extended Mix)"
    artist: "Talla 2xlc, Jens Lissat"
-   startpos: '00:00:00'
+   startpos: '00:47:54'
    purchaseurl: https://www.beatport.com/track/the-future/19307447
    purchasesite: Beatport
    label: "Technoclub Retro"
  - title: "Miss You (Extended Mix)"
    artist: "Craig Connelly, Alina Renae, Nicholas Gunn"
-   startpos: '00:00:00'
+   startpos: '00:52:33'
    purchaseurl: https://www.beatport.com/track/miss-you/19416676
    purchasesite: Beatport
    label: "Blue Dot Trance"
  - title: "Alcazar (Extended Mix)"
    artist: "David Forbes"
-   startpos: '00:00:00'
+   startpos: '00:58:24'
    purchaseurl: https://www.beatport.com/track/alcazar/19156616
    purchasesite: Beatport
    label: "Armind"
  - title: "All On You (Extended Mix)"
    artist: "David Forbes"
-   startpos: '00:00:00'
+   startpos: '01:02:23'
    purchaseurl: https://www.beatport.com/track/all-on-you/19393780
    purchasesite: Beatport
    label: "Who's Afraid Of 138?!"
