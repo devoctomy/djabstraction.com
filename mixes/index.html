@@ -22,7 +22,7 @@ pagination:
     {% endif %}
     <div class="post-content">
       <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
-        <h2 class="post-title">HELLO! {{ post.title }}</h2>
+        <h2 class="post-title">{{ post.title }}</h2>
         {% if post.subtitle %}
         <h2 class="post-subtitle">{{ post.subtitle }}</h2>
         {% endif %}
