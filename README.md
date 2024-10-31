@@ -8,10 +8,9 @@ This is the source code for djabstraction.com, built using the static site gener
 
 This site has the following build dependences,
 
-* rvm 1.29.12 >
-* ruby 3.2.0
-* gem 3.2.15
-* bundler 2.2.6
+* ruby 3.2.2
+* gem 3.4.10
+* bundler 2.5.11
 
 Before you can run locally you should runing following,
 
