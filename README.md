@@ -25,6 +25,12 @@ providing the bundle installed successfully, you should be able to then build an
    bundle exec jekyll serve
 ```
 
+to test posts dated in the future, run the following
+
+```
+   bundle exec jekyll serve --future
+```
+
 ## Acknowledgements
 
 This site was dervied from the Jekyll Theme, [Clean Blog](https://startbootstrap.com/theme/clean-blog-jekyll) by [StartBootstrap](https://github.com/StartBootstrap).
