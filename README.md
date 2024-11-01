@@ -21,7 +21,7 @@ Before you can run locally you should runing following,
 providing the bundle installed successfully, you should be able to then build and run the site using the following,
 
 ```
-   bundle exec jekyllserve
+   bundle exec jekyll serve
 ```
 
 to test posts dated in the future, run the following
