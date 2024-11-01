@@ -9,6 +9,7 @@ This is the source code for djabstraction.com, built using the static site gener
 This site has the following build dependences,
 
 * ruby 3.2.2
+* gem 3.4.10
 * bundler 2.5.22
 
 Before you can run locally you should runing following,
@@ -21,6 +22,12 @@ providing the bundle installed successfully, you should be able to then build an
 
 ```
    bundle exec jekyll serve
+```
+
+to test posts dated in the future, run the following
+
+```
+   bundle exec jekyll serve --future
 ```
 
 ## Acknowledgements
