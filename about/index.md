@@ -5,11 +5,13 @@ description: Somewhere out there...
 background: '/img/bg-about.jpg'
 ---
 
-Sup! Thanks for visiting my site. This is the place where I would like to share my DJ mixes with you, ranging from House to Trance, basically anything I like the sound of, all mixed from my bedroom, so I'm a literal bedroom DJ.
+Hey there! Thanks for checking out my site. This is where I share my DJ mixes, mostly Main Floor Trance with plenty of vocals, all mixed from my bedroom. Yep, I’m a real bedroom DJ.
 
-Some of you may remember me from [Afterhours.fm](http://ah.fm), where I had a monthly show titled 'Beyond Consciousness'. It ran for 20 months (shows) and ended in 2009, since then I only shared a few mixes on various forums. Shit happens, your life changes and before you know it, 12 years have passed.
+Some of you might remember me from Afterhours.fm, where I had a monthly show called Beyond Consciousness. It ran for 20 episodes and wrapped up in 2009. Since then, life happened, time flew by, and here we are over a decade later.
 
-Now it's 2021 and we are confined to our homes whilst Covid does a number on us. Personally, even though times are crazy, I've found that I've managed to reclaim some free time so that I can start taking up some old hobbies again. Thus, I'm back, I hope you are all well and enjoy the mixes that I have uploaded for you.
+Now it's nearly 2025, and I’m back, releasing new mixes every month. I’m loving it all over again, especially with the huge number of incredible tracks out there that keep reminding me why I fell for Trance in the first place. I've also upgraded my gear, moving from the Pioneer XDJ-XZ to the Denon Prime 4+. Both setups are solid, but the Denon has some modern features I really enjoy.
+
+Thanks for stopping by! Hope you enjoy the mixes, and feel free to reach out if you want to chat about the music. Take care, and happy listening.
 
 <div class="alert alert-success" role="alert" onclick="location.href='/podcast';" style="cursor: pointer;">
 	To make listening to my mixes as easy as possible I've created a Podcast feed which you should be able to subscribe to using any good Podcast player on your smartphone or other device.  One such player that I have tested and highly recommend is AntennaPod which is free to download on Google Play and does not contain any advertising.
