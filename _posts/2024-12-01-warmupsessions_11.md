@@ -23,108 +23,113 @@ date: 2024-12-01 00:00:00
 background: '/img/posts/DJAbstraction-WarmupSessions11-01122024.jpg'
 
 tracklist:
+ - artist: "DJ Abstraction"
+   title: "Warmup Sessions 11 Introduction"
+   startpos: '00:00:00'
+   label: "DJ Abstraction"
+
  - artist: "Airwalk3r, Solar Vision"
    title: "The Power of Love (Extended Mix)"
-   startpos: '00:00:00'
+   startpos: '00:04:00'
    purchaseurl: https://www.beatport.com/track/
    purchasesite: Beatport
    label: "Future Sequence"
 
  - artist: "Talla 2xkc, Kenny Hayes"
    title: "Daybreaker (Extended Mix)"
-   startpos: '00:06:32'
+   startpos: '00:10:32'
    purchaseurl: https://www.beatport.com/track/
    purchasesite: Beatport
    label: "That's Trance"
 
  - artist: "Lost Witness, Tiff Lacey"
    title: "Home feat. Tiff Lacey (Robbie Seed Extended Remix)"
-   startpos: '00:11:14'
+   startpos: '00:15:14'
    purchaseurl: https://www.beatport.com/track/
    purchasesite: Beatport
    label: "Armada Captivating"
 
  - artist: "The Space Brothers, Sue McLaren"
    title: "Way Back (Extended Mix)"
-   startpos: '00:15:52'
+   startpos: '00:19:52'
    purchaseurl: https://www.beatport.com/track/
    purchasesite: Beatport
    label: "Armada Captivating"
 
  - artist: "Activa Feat. Julie Harrington"
    title: "Stronger (Original Club Mix)"
-   startpos: '00:21:54'
+   startpos: '00:25:54'
    purchaseurl: https://www.beatport.com/track/
    purchasesite: Beatport
    label: "Discover Records (UK)"
 
  - artist: "John O'Callaghan"
    title: "Autumn Avenue (Extended Mix)"
-   startpos: '00:26:46'
+   startpos: '00:30:46'
    purchaseurl: https://www.beatport.com/track/
    purchasesite: Beatport
    label: "FSOE"
 
  - artist: "Alex M.O.R.P.H."
    title: "Cherry Blossom (Extended Mix)"
-   startpos: '00:31:38'
+   startpos: '00:35:38'
    purchaseurl: https://www.beatport.com/track/
    purchasesite: Beatport
    label: "FSOE"
 
  - artist: "Mark Sherry, Peetu S, Emma Gillespie"
    title: "Open Ocean (Extended Mix)"
-   startpos: '00:37:53'
+   startpos: '00:41:53'
    purchaseurl: https://www.beatport.com/track/
    purchasesite: Beatport
    label: "Black Hole Recordings"
 
  - artist: "Shroud, Shadow"
    title: "Blink feat. Shadow (Original Mix)"
-   startpos: '00:43:43'
+   startpos: '00:47:43'
    purchaseurl: https://www.beatport.com/track/
    purchasesite: Beatport
    label: "Cohesion White Label"
 
  - artist: "Under Sun"
    title: "Captured feat. Signum (Signum Signal Remix)"
-   startpos: '00:49:01'
+   startpos: '00:53:01'
    purchaseurl: https://www.beatport.com/track/
    purchasesite: Beatport
    label: "Armada Music Labels"
 
  - artist: "N-sKing"
    title: "Anxiety (Extended Mix)"
-   startpos: '00:54:05'
+   startpos: '00:58:05'
    purchaseurl: https://www.beatport.com/track/
    purchasesite: Beatport
    label: "Interplay Global"
 
  - artist: "Caolan McConville"
    title: "Echoes in My Mind (Extended Mix)"
-   startpos: '01:00:06'
+   startpos: '01:04:06'
    purchaseurl: https://www.beatport.com/track/
    purchasesite: Beatport
    label: "Noctural Knights Music"
 
  - artist: "Forza:Duo"
    title: "Radiance (Extended Mix)"
-   startpos: '01:04:26'
+   startpos: '01:08:26'
    purchaseurl: https://www.beatport.com/track/
    purchasesite: Beatport
    label: "HTE Recordings"
 
  - artist: "A.R.D.I."
    title: "Shadows of Heart (Extended Mix)"
-   startpos: '01:09:55'
+   startpos: '01:13:55'
    purchaseurl: https://www.beatport.com/track/
    purchasesite: Beatport
    label: "Find Your Harmony"
 
 downloadurl: https://downloads.djabstraction.com/mixes/DJAbstraction-WarmupSessions11-01122024.zip
 mp3streamurl: https://downloads.djabstraction.com/mp3/DJAbstraction-WarmupSessions11-01122024.mp3
-mp3lengthbytes: 188196864
-duration: '01:16:16'
+mp3lengthbytes: 197795840
+duration: '01:20:16'
 episodeimg: '/img/podcast/11.jpg'
 episodeno: 11
 sharing: true
