@@ -19,8 +19,6 @@ As well as this, I have also created a track using Suno (AI) which features the 
 
 But that's not all, I've also created a video to go with the track, featuring images I have generated using FLUX and then turned into video clips using Kling. Yes, there is an awful lot of AI going into this, but fear not, the mix is entirely of my doing, as usual, that will not change.
 
-A YouTube channel will be coming soon, in the meantime, enjoy!
-
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
   <iframe 
     src="https://www.youtube.com/embed/HOSLzCrf1Wc?si=kM8zg6ArVxMGQBRd" 
