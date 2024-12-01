@@ -21,7 +21,14 @@ But that's not all, I've also created a video to go with the track, featuring im
 
 A YouTube channel will be coming soon, in the meantime, enjoy!
 
-<video controls style="width: 100%; height: auto;">
-  <source src="https://downloads.djabstraction.com/videos/DJAbstraction-WarmupSessions11-01122024.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
+  <iframe 
+    src="https://www.youtube.com/embed/HOSLzCrf1Wc?si=kM8zg6ArVxMGQBRd" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
