@@ -31,98 +31,98 @@ tracklist:
  - artist: "Airwalk3r, Solar Vision"
    title: "The Power of Love (Extended Mix)"
    startpos: '00:04:00'
-   purchaseurl: https://www.beatport.com/track/
+   purchaseurl: https://www.beatport.com/track/the-power-of-love/19604240
    purchasesite: Beatport
    label: "Future Sequence"
 
  - artist: "Talla 2xkc, Kenny Hayes"
    title: "Daybreaker (Extended Mix)"
    startpos: '00:10:32'
-   purchaseurl: https://www.beatport.com/track/
+   purchaseurl: https://www.beatport.com/track/daybreaker/19693455
    purchasesite: Beatport
    label: "That's Trance"
 
  - artist: "Lost Witness, Tiff Lacey"
    title: "Home feat. Tiff Lacey (Robbie Seed Extended Remix)"
    startpos: '00:15:14'
-   purchaseurl: https://www.beatport.com/track/
+   purchaseurl: https://www.beatport.com/track/home-feat-tiff-lacey/19672549
    purchasesite: Beatport
    label: "Armada Captivating"
 
  - artist: "The Space Brothers, Sue McLaren"
    title: "Way Back (Extended Mix)"
    startpos: '00:19:52'
-   purchaseurl: https://www.beatport.com/track/
+   purchaseurl: https://www.beatport.com/track/way-back/19616263
    purchasesite: Beatport
    label: "Armada Captivating"
 
  - artist: "Activa Feat. Julie Harrington"
    title: "Stronger (Original Club Mix)"
    startpos: '00:25:54'
-   purchaseurl: https://www.beatport.com/track/
+   purchaseurl: https://www.beatport.com/track/stronger/2018342
    purchasesite: Beatport
    label: "Discover Records (UK)"
 
  - artist: "John O'Callaghan"
    title: "Autumn Avenue (Extended Mix)"
    startpos: '00:30:46'
-   purchaseurl: https://www.beatport.com/track/
+   purchaseurl: https://www.beatport.com/track/autumn-avenue/19557184
    purchasesite: Beatport
    label: "FSOE"
 
  - artist: "Alex M.O.R.P.H."
    title: "Cherry Blossom (Extended Mix)"
    startpos: '00:35:38'
-   purchaseurl: https://www.beatport.com/track/
+   purchaseurl: https://www.beatport.com/track/cherry-blossom/19633816
    purchasesite: Beatport
    label: "FSOE"
 
  - artist: "Mark Sherry, Peetu S, Emma Gillespie"
    title: "Open Ocean (Extended Mix)"
    startpos: '00:41:53'
-   purchaseurl: https://www.beatport.com/track/
+   purchaseurl: https://www.beatport.com/track/open-ocean/19588818
    purchasesite: Beatport
    label: "Black Hole Recordings"
 
  - artist: "Shroud, Shadow"
    title: "Blink feat. Shadow (Original Mix)"
    startpos: '00:47:43'
-   purchaseurl: https://www.beatport.com/track/
+   purchaseurl: https://www.beatport.com/track/blink-feat-shadow/13755609
    purchasesite: Beatport
    label: "Cohesion White Label"
 
  - artist: "Under Sun"
    title: "Captured feat. Signum (Signum Signal Remix)"
    startpos: '00:53:01'
-   purchaseurl: https://www.beatport.com/track/
+   purchaseurl: https://www.beatport.com/track/captured-feat-signum/326495
    purchasesite: Beatport
    label: "Armada Music Labels"
 
  - artist: "N-sKing"
    title: "Anxiety (Extended Mix)"
    startpos: '00:58:05'
-   purchaseurl: https://www.beatport.com/track/
+   purchaseurl: https://www.beatport.com/track/anxiety/19675923
    purchasesite: Beatport
    label: "Interplay Global"
 
  - artist: "Caolan McConville"
    title: "Echoes in My Mind (Extended Mix)"
    startpos: '01:04:06'
-   purchaseurl: https://www.beatport.com/track/
+   purchaseurl: https://www.beatport.com/track/echoes-in-my-mind/19672060
    purchasesite: Beatport
    label: "Noctural Knights Music"
 
  - artist: "Forza:Duo"
    title: "Radiance (Extended Mix)"
    startpos: '01:08:26'
-   purchaseurl: https://www.beatport.com/track/
+   purchaseurl: https://www.beatport.com/track/radiance/19692901
    purchasesite: Beatport
    label: "HTE Recordings"
 
  - artist: "A.R.D.I."
    title: "Shadows of Heart (Extended Mix)"
    startpos: '01:13:55'
-   purchaseurl: https://www.beatport.com/track/
+   purchaseurl: https://www.beatport.com/track/shadows-of-heart/19468690
    purchasesite: Beatport
    label: "Find Your Harmony"
 
