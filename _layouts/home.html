@@ -49,12 +49,16 @@ layout: default
               </div>
               <p class="post-meta">Posted by
                 {% if post.author %}
-                {{ post.author }}
+                  {{ post.author }}
                 {% else %}
-                {{ site.author }}
+                  {{ site.author }}
                 {% endif %}
-                on
-                {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}            
+                on {{ post.date | date: '%B %d, %Y' }} &middot;
+                {% if post.layout == "mix" %}
+                  {{ post.duration }}
+                {% else %}
+                  {% include read_time.html content=post.content %}
+                {% endif %}
               </p>
             </div>
           </div>
