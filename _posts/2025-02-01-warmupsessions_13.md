@@ -170,38 +170,44 @@ And as I touched solid ground, I knew peace would come if we stay.
 
 DJ Abstraction - Warmup Sessions 13 Introduction
 
-Verse 1
+[Verse 1]
+
 I was lost & found in the dark of space,
 Drifting alone, with a dream to chase.
 Memories turned to tears, but I won't look back,
 Through the endless night, I stay on track.
 
-Chorus
+[Chorus]
+
 Night to fall, safe in sound,
 Through the storm, I'm heaven-bound.
 Stellar lights, void between stars,
 I keep on flying, no matter how far.
 
-Verse 2
+[Verse 2]
+
 Said goodbye forever, left my past behind,
 A ghost reality echoes in my mind.
 Through the dust of Ceres, I hear a call,
 But kryptonite fears could end it all.
 
-Chorus
+[Chorus]
+
 Night to fall, safe in sound,
 Through the storm, I'm heaven-bound.
 Stellar lights, void between stars,
 I keep on flying, no matter how far.
 
-Bridge
+[Bridge]
+
 Through the dark, I see city lights,
 A spark of hope in endless nights.
 A brand-new future, a place to be,
 Through the flames of Mercure, it's calling me-
 But only if we stay, will we finally be free.
 
-Chorus
+[Chorus]
+
 Night to fall, safe in sound,
 Through the storm, I'm heaven-bound.
 Stellar lights, void between stars,
