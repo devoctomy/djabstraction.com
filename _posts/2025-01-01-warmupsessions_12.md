@@ -167,45 +167,45 @@ And at last, they learned how to Love Again Like That, no looking back.
 
 ---
 
-#### DJ Abstraction - Warmup Sessions 12 Introduction
+## DJ Abstraction - Warmup Sessions 12 Introduction
 
-[Verse 1]
+### Verse 1
 
 A Song of Remedy, whispered low,
 Gentle Resonation, echoes grow.
 The Sea Storm rages, we drift apart,
 Left untethered, After the End, we part.
 
-[Chorus]
+### Chorus
 
 Was it Forever, or just a guise?
 I still Miss You, beneath the skies.
 
-[Verse 2]
+### Verse 2
 
 I was Just a Fool, chasing signs,
 An Indicator, in blurred lines.
 Lose Control, retrace the start,
 Go Back to Where We Started, heart to heart.
 
-[Chorus]
+### Chorus
 
 Was it Forever, or just a guise?
 I still Miss You, beneath the skies.
 
-[Bridge]
+### Bridge
 
 Seeing the Light, shadows fade,
 I Believe in paths we've made.
 
-[Chorus]
+### Chorus
 
 Was it Forever, or just a guise?
 I still Miss You, beneath the skies.
 
-[Verse 3]
+### Verse 3
 
 Through my Deepest Fear, I'll find my track,
 To Love Again Like That, no looking back.
 
-*[This story has been generated with the assistance of ChatGPT]*
+*This story has been generated with the assistance of ChatGPT*
